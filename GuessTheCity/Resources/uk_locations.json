@@ -1,0 +1,2531 @@
+[
+    {
+        "id": 1,
+        "latitude": 51.5072,
+        "longitude": -0.1275,
+        "country": "United Kingdom",
+        "county_name": "London, City of",
+        "name": "London",
+        "info": "This medieval city was enclosed by walls and became a major center of trade. In 1066, a prominent fortress was built here by William the Conqueror, serving as both a royal residence and a prison. The city was devastated by a great plague in 1348."
+    },
+    {
+        "id": 2,
+        "latitude": 52.48,
+        "longitude": -1.9025,
+        "country": "United Kingdom",
+        "county_name": "Birmingham",
+        "name": "Birmingham",
+        "info": "In medieval times, this location was a small market town renowned for its metalworking. A significant guild dedicated to the Holy Cross was established here in 1392, playing a crucial role in the town's growth."
+    },
+    {
+        "id": 3,
+        "latitude": 50.8058,
+        "longitude": -1.0872,
+        "country": "United Kingdom",
+        "county_name": "Portsmouth",
+        "name": "Portsmouth",
+        "info": "This coastal settlement gained importance in medieval times due to its strategic position. King Richard I granted it a Royal Charter in 1194. A significant defensive structure, the Round Tower, was constructed here in 1418."
+    },
+    {
+        "id": 4,
+        "latitude": 50.9025,
+        "longitude": -1.4042,
+        "country": "United Kingdom",
+        "county_name": "Southampton",
+        "name": "Southampton",
+        "info": "This medieval port was a key trading hub. In 1338, it suffered a devastating attack by French, Genoese, and Monégasque ships. Following this raid, impressive walls were built to defend the city, much of which still stand today."
+    },
+    {
+        "id": 5,
+        "latitude": 52.9561,
+        "longitude": -1.1512,
+        "country": "United Kingdom",
+        "county_name": "Nottingham",
+        "name": "Nottingham",
+        "info": "A castle was built here in 1068 by William the Conqueror. This place is closely associated with a legendary outlaw believed to have lived during the 12th or 13th century. King Henry II granted it a Royal Charter in 1155."
+    },
+    {
+        "id": 6,
+        "latitude": 51.4536,
+        "longitude": -2.5975,
+        "country": "United Kingdom",
+        "county_name": "Bristol, City of",
+        "name": "Bristol",
+        "info": "This medieval town was protected by a stone wall and castle. It became an important port, trading wool and cloth. In 1497, a famous Italian explorer set sail from here on a voyage that would lead to the discovery of North America."
+    },
+    {
+        "id": 7,
+        "latitude": 53.479,
+        "longitude": -2.2452,
+        "country": "United Kingdom",
+        "county_name": "Manchester",
+        "name": "Manchester",
+        "info": "In medieval times, this settlement was centered around a manor house and parish church. It gained significance in 1301 when it was granted a charter by Thomas, Earl of Lancaster. The town was known for its cottage-based textile production."
+    },
+    {
+        "id": 8,
+        "latitude": 53.4094,
+        "longitude": -2.9785,
+        "country": "United Kingdom",
+        "county_name": "Liverpool",
+        "name": "Liverpool",
+        "info": "This location began as a small fishing village. King John granted it borough status in 1207, marking the official foundation of the town. Its medieval street plan, with seven original streets, is still visible in the modern city center."
+    },
+    {
+        "id": 9,
+        "latitude": 52.6344,
+        "longitude": -1.1319,
+        "country": "United Kingdom",
+        "county_name": "Leicester",
+        "name": "Leicester",
+        "info": "This town was one of the Five Boroughs of the Danelaw in the 9th century. Its castle, built in the 11th century, played a significant role in the Baron's War of 1173-1174. A famous parliament was held here in 1414, known as the 'Fire and Faggot' Parliament."
+    },
+    {
+        "id": 10,
+        "latitude": 50.8147,
+        "longitude": -0.3714,
+        "country": "United Kingdom",
+        "county_name": "West Sussex",
+        "name": "Worthing",
+        "info": "During medieval times, this area was primarily composed of small farming and fishing communities. The parish church of St Mary's, parts of which date back to the 13th century, was a central feature of the main settlement."
+    },
+    {
+        "id": 11,
+        "latitude": 52.4081,
+        "longitude": -1.5106,
+        "country": "United Kingdom",
+        "county_name": "Coventry",
+        "name": "Coventry",
+        "info": "This town grew around a Benedictine monastery founded in 1043. It became an important center for the cloth trade and was surrounded by walls in the 14th century. A famous noblewoman supposedly rode naked through its streets in the 11th century to protest her husband's high taxes."
+    },
+    {
+        "id": 12,
+        "latitude": 54.5964,
+        "longitude": -5.93,
+        "country": "United Kingdom",
+        "county_name": "Belfast",
+        "name": "Belfast",
+        "info": "This settlement began as a small village around a ford across a river. Its strategic location made it a target for Viking raids in the 10th and 11th centuries. A significant castle was built here in the 12th century by the Anglo-Norman knight John de Courcy."
+    },
+    {
+        "id": 13,
+        "latitude": 53.8,
+        "longitude": -1.75,
+        "country": "United Kingdom",
+        "county_name": "Bradford",
+        "name": "Bradford",
+        "info": "In medieval times, this was a small manor under the control of Kirkstall Abbey. It was mentioned in the Domesday Book of 1086. The town received a charter to hold a market in 1251, which contributed to its growth and development."
+    },
+    {
+        "id": 14,
+        "latitude": 52.9247,
+        "longitude": -1.478,
+        "country": "United Kingdom",
+        "county_name": "Derby",
+        "name": "Derby",
+        "info": "This settlement was one of the Five Boroughs of the Danelaw. It was the site of a royal mint from the 9th to the 11th centuries. The town's bridge over the river was an important crossing point and contributed to its growth as a market town."
+    },
+    {
+        "id": 15,
+        "latitude": 50.3714,
+        "longitude": -4.1422,
+        "country": "United Kingdom",
+        "county_name": "Plymouth",
+        "name": "Plymouth",
+        "info": "This coastal settlement was a thriving port by the 13th century. It was frequently attacked by French raiders, leading to the construction of a castle in the early 15th century. The town sent ships to fight the Spanish Armada in 1588."
+    },
+    {
+        "id": 16,
+        "latitude": 51.4947,
+        "longitude": -0.1353,
+        "country": "United Kingdom",
+        "county_name": "Westminster",
+        "name": "Westminster",
+        "info": "This area grew around a famous abbey founded in the 7th century. It became increasingly important as a seat of royal power, with a palace built here in the 11th century. By the 13th century, it was the location of the royal treasury and government offices."
+    },
+    {
+        "id": 17,
+        "latitude": 52.5833,
+        "longitude": -2.1333,
+        "country": "United Kingdom",
+        "county_name": "Wolverhampton",
+        "name": "Wolverhampton",
+        "info": "This town grew around a monastery founded in 659 AD. It was given to the King's daughter as part of her dowry in 1005. The town received its charter for a market in 1258, which greatly contributed to its growth and prosperity."
+    },
+    {
+        "id": 18,
+        "latitude": 52.2304,
+        "longitude": -0.8938,
+        "country": "United Kingdom",
+        "county_name": "Northamptonshire",
+        "name": "Northampton",
+        "info": "This town was the site of a major castle built shortly after the Norman Conquest. It was an occasional royal residence and the site of several parliaments in the 13th century. The town was granted its first charter by King Richard I in 1189."
+    },
+    {
+        "id": 19,
+        "latitude": 52.6286,
+        "longitude": 1.2928,
+        "country": "United Kingdom",
+        "county_name": "Norfolk",
+        "name": "Norwich",
+        "info": "This city was one of the largest and wealthiest provincial towns in medieval England. Its castle was built by the Normans in the 11th century. The city was ravaged by the Black Death in 1349, losing an estimated 30-50% of its population."
+    },
+    {
+        "id": 20,
+        "latitude": 51.8783,
+        "longitude": -0.4147,
+        "country": "United Kingdom",
+        "county_name": "Luton",
+        "name": "Luton",
+        "info": "This town was recorded in the Domesday Book of 1086. It developed around the River Lea and was primarily an agricultural settlement. The town received a Royal Charter for a market in 1338, which helped spur its growth."
+    },
+    {
+        "id": 21,
+        "latitude": 52.413,
+        "longitude": -1.778,
+        "country": "United Kingdom",
+        "county_name": "Solihull",
+        "name": "Solihull",
+        "info": "This settlement was established as a planned market town in the 12th or 13th century. Its parish church of St. Alphege was built in the 13th century and remains a prominent landmark. The town's name comes from a Old English term meaning 'muddy hill'."
+    },
+    {
+        "id": 22,
+        "latitude": 51.544,
+        "longitude": -0.1027,
+        "country": "United Kingdom",
+        "county_name": "Islington",
+        "name": "Islington",
+        "info": "This area was a small manor in medieval times, mentioned in the Domesday Book. It was known for its inns, which served travelers on the Great North Road. A famous priory was founded here in the 12th century, which became a major landowner in the area."
+    },
+    {
+        "id": 23,
+        "latitude": 57.15,
+        "longitude": -2.11,
+        "country": "United Kingdom",
+        "county_name": "Aberdeen City",
+        "name": "Aberdeen",
+        "info": "This Scottish city received its royal burgh status from King David I in 1136. It became an important trading port, exporting wool, hides, and fish. The city had two municipal centers until 1891: Old Aberdeen around the cathedral and university, and New Aberdeen, a royal burgh and trading center on the coast."
+    },
+    {
+        "id": 24,
+        "latitude": 51.3727,
+        "longitude": -0.1099,
+        "country": "United Kingdom",
+        "county_name": "Croydon",
+        "name": "Croydon",
+        "info": "This town was mentioned in the Domesday Book of 1086. It grew around an Anglo-Saxon palace used by the Archbishops of Canterbury as a summer residence. The town received a charter for a market in 1276, which helped it develop into a prosperous market town."
+    },
+    {
+        "id": 25,
+        "latitude": 50.72,
+        "longitude": -1.88,
+        "country": "United Kingdom",
+        "county_name": null,
+        "name": "Bournemouth",
+        "info": "During medieval times, this area was largely unpopulated heathland, occasionally used by smugglers. The nearest settlements were small fishing and farming villages. It wasn't until the 19th century that this location began to develop as a town."
+    },
+    {
+        "id": 26,
+        "latitude": 51.58,
+        "longitude": 0.49,
+        "country": "United Kingdom",
+        "county_name": "Essex",
+        "name": "Basildon",
+        "info": "In medieval times, this area consisted of several small villages and hamlets. The most significant of these was mentioned in the Domesday Book of 1086. The area remained largely rural until its development as a new town in the 20th century."
+    },
+    {
+        "id": 27,
+        "latitude": 51.272,
+        "longitude": 0.529,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Maidstone",
+        "info": "This town was an important settlement in medieval Kent. It received its first charter in 1261, allowing it to hold a market. A college of secular canons was founded here in 1395 by Archbishop Courtenay, whose tomb lies in the local church."
+    },
+    {
+        "id": 28,
+        "latitude": 51.5575,
+        "longitude": 0.0858,
+        "country": "United Kingdom",
+        "county_name": "Redbridge",
+        "name": "Ilford",
+        "info": "This settlement was recorded in the Domesday Book of 1086. Its name comes from the Old English words meaning 'ford by the hill'. A notable monastery was founded here in 1140, which played a significant role in the area's medieval history."
+    },
+    {
+        "id": 29,
+        "latitude": 53.39,
+        "longitude": -2.59,
+        "country": "United Kingdom",
+        "county_name": "Warrington",
+        "name": "Warrington",
+        "info": "This town was a significant river crossing point in medieval times. It was fortified by the Romans and later developed around a medieval church. The town received its Royal Charter in 1255, which allowed it to hold a market and develop as a trading center."
+    },
+    {
+        "id": 30,
+        "latitude": 51.75,
+        "longitude": -1.25,
+        "country": "United Kingdom",
+        "county_name": "Oxfordshire",
+        "name": "Oxford",
+        "info": "This city grew around a medieval university, which was established in the 12th century. It became a center of learning and religious debate. The city played a significant role in the conflict between King Stephen and Empress Matilda in the 12th century."
+    },
+    
+    {
+        "id": 31,
+        "latitude": 51.5836,
+        "longitude": -0.3464,
+        "country": "United Kingdom",
+        "county_name": "Harrow",
+        "name": "Harrow",
+        "info": "This area was dominated by a famous school founded in 1572, just after the medieval period. However, the settlement itself dates back to the Domesday Book of 1086. Its name comes from the Old English word meaning 'heathen temple', suggesting it was a place of pre-Christian worship."
+    },
+    {
+        "id": 32,
+        "latitude": 52.519,
+        "longitude": -1.995,
+        "country": "United Kingdom",
+        "county_name": "Sandwell",
+        "name": "West Bromwich",
+        "info": "During medieval times, this area was part of the ancient parish of Handsworth. It was primarily rural, with scattered farmsteads and cottages. The area's name, first recorded in 1086, means 'the little village on the heath of broom' in Old English."
+    },
+    {
+        "id": 33,
+        "latitude": 51.8667,
+        "longitude": -2.25,
+        "country": "United Kingdom",
+        "county_name": "Gloucestershire",
+        "name": "Gloucester",
+        "info": "This city has Roman origins but flourished in medieval times. Its abbey, founded in 681, became a center of pilgrimage. The city received its first charter from King Henry II in 1155. It was also the site where King Edward II was allegedly murdered in 1327."
+    },
+    {
+        "id": 34,
+        "latitude": 53.96,
+        "longitude": -1.08,
+        "country": "United Kingdom",
+        "county_name": "York",
+        "name": "York",
+        "info": "This city was a major urban center in medieval England. Its stunning cathedral, whose construction began in 1220, became the largest Gothic cathedral in Northern Europe. The city was also home to a significant Jewish community until their expulsion in 1290."
+    },
+    {
+        "id": 35,
+        "latitude": 53.8142,
+        "longitude": -3.0503,
+        "country": "United Kingdom",
+        "county_name": "Blackpool",
+        "name": "Blackpool",
+        "info": "In medieval times, this area was a coastal region with scattered settlements. The name was first recorded in 1416 as 'le pull', meaning 'the pool', in reference to a drainage channel in the area. It remained largely rural until its development as a seaside resort in the 18th century."
+    },
+    {
+        "id": 36,
+        "latitude": 53.4083,
+        "longitude": -2.1494,
+        "country": "United Kingdom",
+        "county_name": "Stockport",
+        "name": "Stockport",
+        "info": "This town's name was first recorded in 1170, deriving from an Old English word meaning 'a market place'. It was granted its first charter in 1220 and developed as a market town. In the 14th century, it became known for its thriving cotton and wool industries."
+    },
+    {
+        "id": 37,
+        "latitude": 53.424,
+        "longitude": -2.322,
+        "country": "United Kingdom",
+        "county_name": "Trafford",
+        "name": "Sale",
+        "info": "This area was recorded in the Domesday Book of 1086 as 'Sále', possibly meaning 'at the sallow tree'. During medieval times, it was primarily an agricultural settlement. The Bridgewater Canal, which passed through here, wasn't constructed until the 18th century."
+    },
+    {
+        "id": 38,
+        "latitude": 51.5975,
+        "longitude": -0.0681,
+        "country": "United Kingdom",
+        "county_name": "Haringey",
+        "name": "Tottenham",
+        "info": "This area's name was first recorded in the Domesday Book as 'Toteham', meaning 'Tota's homestead'. During medieval times, it was a rural village, with St Benet Fink Church serving as its center. The area became known for its ferry service across the nearby river."
+    },
+    {
+        "id": 39,
+        "latitude": 52.2053,
+        "longitude": 0.1192,
+        "country": "United Kingdom",
+        "county_name": "Cambridgeshire",
+        "name": "Cambridge",
+        "info": "This town grew around a bridge crossing a major river. Its famous university was founded in 1209 by scholars fleeing Oxford. The town's castle was built shortly after the Norman Conquest in 1066, and the Round Church, one of only four medieval round churches in England, was built around 1130."
+    },
+    {
+        "id": 40,
+        "latitude": 51.5768,
+        "longitude": 0.1801,
+        "country": "United Kingdom",
+        "county_name": "Havering",
+        "name": "Romford",
+        "info": "This market town's name was first recorded in 1177 as 'Romfort', meaning 'wide ford'. It was situated on an important road between London and Colchester. The town received its royal charter to hold a market in 1247 from King Henry III."
+    },
+    {
+        "id": 41,
+        "latitude": 51.8917,
+        "longitude": 0.903,
+        "country": "United Kingdom",
+        "county_name": "Essex",
+        "name": "Colchester",
+        "info": "This town claims to be Britain's oldest recorded town. It was an important center in Roman times and remained significant in the medieval period. Its castle, built in the 11th century on the foundations of a Roman temple, is the largest Norman keep in Europe."
+    },
+    {
+        "id": 42,
+        "latitude": 51.6287,
+        "longitude": -0.7482,
+        "country": "United Kingdom",
+        "county_name": "Buckinghamshire",
+        "name": "High Wycombe",
+        "info": "This town's name comes from the Old English 'Wicumun', meaning 'dwellings by a stream'. It was known for its thriving wool trade in medieval times. The town received its charter for a market in 1237, which played a crucial role in its development."
+    },
+    {
+        "id": 43,
+        "latitude": 54.9556,
+        "longitude": -1.6,
+        "country": "United Kingdom",
+        "county_name": "Gateshead",
+        "name": "Gateshead",
+        "info": "This settlement's name means 'goat's headland' in Old English. It was recorded in the Boldon Book of 1183, a survey of the Durham bishopric estates. The area was primarily agricultural in medieval times, with its location on the south bank of a major river contributing to its growth."
+    },
+    {
+        "id": 44,
+        "latitude": 51.5084,
+        "longitude": -0.5881,
+        "country": "United Kingdom",
+        "county_name": "Slough",
+        "name": "Slough",
+        "info": "This area's name was first recorded in 1195 as 'Slo', meaning 'soil' or 'mud'. During medieval times, it was a small hamlet within the parish of Upton. The area remained largely rural until its rapid development in the 19th and 20th centuries."
+    },
+    {
+        "id": 45,
+        "latitude": 53.748,
+        "longitude": -2.482,
+        "country": "United Kingdom",
+        "county_name": "Blackburn with Darwen",
+        "name": "Blackburn",
+        "info": "This town's name means 'the black stream' in Old English, first recorded in the Domesday Book. It grew around a parish church dating from 596 AD. During the medieval period, it developed as a market town, receiving a royal charter for a market and fair in 1251."
+    },
+    {
+        "id": 46,
+        "latitude": 51.73,
+        "longitude": 0.48,
+        "country": "United Kingdom",
+        "county_name": "Essex",
+        "name": "Chelmsford",
+        "info": "This settlement grew around a river crossing where the road from London to Colchester met the road from Dunmow. Its name, meaning 'ford of a man called Ceolmaer', was first recorded in 1189. A significant stone bridge was built here in the early 13th century."
+    },
+    {
+        "id": 47,
+        "latitude": 53.61,
+        "longitude": -2.16,
+        "country": "United Kingdom",
+        "county_name": "Rochdale",
+        "name": "Rochdale",
+        "info": "This town's name, meaning 'valley of the River Roch', was first recorded in the Domesday Book. It grew around an 11th-century parish church. The town received its first charter for a weekly market and annual fair in 1251."
+    },
+    {
+        "id": 48,
+        "latitude": 53.43,
+        "longitude": -1.357,
+        "country": "United Kingdom",
+        "county_name": "Rotherham",
+        "name": "Rotherham",
+        "info": "This town's name means 'homestead on the River Rother' in Old English. It was mentioned in the Domesday Book of 1086. The town grew around its parish church, which was rebuilt in the 15th century and is considered one of the finest perpendicular churches in England."
+    },
+    {
+        "id": 49,
+        "latitude": 51.584,
+        "longitude": -0.021,
+        "country": "United Kingdom",
+        "county_name": "Waltham Forest",
+        "name": "Walthamstow",
+        "info": "This area's name means 'the place where the guests meet' in Old English. It was recorded in the Domesday Book of 1086. During medieval times, it was a rural area known for its woodland, which was part of the ancient Epping Forest."
+    },
+    {
+        "id": 50,
+        "latitude": 51.2667,
+        "longitude": -1.0876,
+        "country": "United Kingdom",
+        "county_name": "Hampshire",
+        "name": "Basingstoke",
+        "info": "This town's name, meaning 'the people of Basa's homestead', was first recorded in the Domesday Book. It was granted a royal charter by King John in 1201, allowing it to hold a weekly market. The Church of St Michael, dating from the 13th century, was a central feature of the medieval town."
+    },
+    
+    {
+        "id": 51,
+        "latitude": 53.483,
+        "longitude": -2.2931,
+        "country": "United Kingdom",
+        "county_name": "Salford",
+        "name": "Salford",
+        "info": "This settlement's name, meaning 'willow ford', was first recorded in 1169. It received its charter in 1230, allowing for a market and fair. The area was known for its textile industry as early as the 13th century. A prominent bridge, built in 1365, was a key feature of the medieval town."
+    },
+    {
+        "id": 52,
+        "latitude": 51.4668,
+        "longitude": -0.375,
+        "country": "United Kingdom",
+        "county_name": "Hounslow",
+        "name": "Hounslow",
+        "info": "This area's name, meaning 'hill belonging to a man called Hund', was first recorded in 1200. During medieval times, it was a small village along an important road. A priory was founded here in 1211, which played a significant role in the area's development."
+    },
+    {
+        "id": 53,
+        "latitude": 51.5528,
+        "longitude": -0.2979,
+        "country": "United Kingdom",
+        "county_name": "Brent",
+        "name": "Wembley",
+        "info": "This area's name, meaning 'Wemba's clearing', was first recorded in 825 AD. During the medieval period, it was a small agricultural settlement. The manor was held by various religious institutions, including Westminster Abbey, throughout much of the Middle Ages."
+    },
+    {
+        "id": 54,
+        "latitude": 52.1911,
+        "longitude": -2.2206,
+        "country": "United Kingdom",
+        "county_name": "Worcestershire",
+        "name": "Worcester",
+        "info": "This city's history dates back to Roman times, but it flourished in the medieval period. Its cathedral, founded in 680, was an important center of learning. The city was granted its first charter in 1189 by Richard I. It was the site of a significant battle in 1651, marking the end of the English Civil War."
+    },
+    {
+        "id": 55,
+        "latitude": 51.4928,
+        "longitude": -0.2229,
+        "country": "United Kingdom",
+        "county_name": "Hammersmith and Fulham",
+        "name": "Hammersmith",
+        "info": "This area's name, possibly meaning 'place with a hammer smithy', was first recorded in 1294. During medieval times, it was a small riverside village known for its market gardens and orchards. A wooden bridge was built across the river here in 1129, replaced by a stone structure in 1660."
+    },
+    {
+        "id": 56,
+        "latitude": 51.5864,
+        "longitude": 0.6049,
+        "country": "United Kingdom",
+        "county_name": "Essex",
+        "name": "Rayleigh",
+        "info": "This town's name, meaning 'meadow of wild she-goats', was recorded in the Domesday Book of 1086. Its castle, built shortly after the Norman Conquest, was one of the earliest Norman castles in England. The town received its charter for a market and fair in 1250."
+    },
+    {
+        "id": 57,
+        "latitude": 51.7526,
+        "longitude": -0.4692,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Hemel Hempstead",
+        "info": "This town's name, meaning 'homestead in a sheltered place', was first recorded in 705 AD. It was granted a charter by King Henry VIII in 1539 to hold a Thursday market. The old town features a 12th-century church and many buildings dating from the 16th century."
+    },
+    {
+        "id": 58,
+        "latitude": 51.38,
+        "longitude": -2.36,
+        "country": "United Kingdom",
+        "county_name": "Bath and North East Somerset",
+        "name": "Bath",
+        "info": "This city, known for its hot springs, was a significant settlement in Roman times. In the medieval period, it became an important center of the wool trade. Its abbey, founded in the 7th century and rebuilt in the 12th and 16th centuries, was a major landmark. The city received its first charter in 1189."
+    },
+    {
+        "id": 59,
+        "latitude": 51.5127,
+        "longitude": -0.4211,
+        "country": "United Kingdom",
+        "county_name": "Hillingdon",
+        "name": "Hayes",
+        "info": "This area's name, meaning 'a settlement in open land overgrown with hedges and bushes', was first recorded in 831 AD. During the medieval period, it was a small agricultural village. The parish church of St Mary's has parts dating back to the 13th century."
+    },
+    {
+        "id": 60,
+        "latitude": 54.527,
+        "longitude": -1.5526,
+        "country": "United Kingdom",
+        "county_name": "Darlington",
+        "name": "Darlington",
+        "info": "This town's name was first recorded in 1003. It grew around an Anglo-Saxon settlement and became an important market town in the medieval period. The town's parish church, built in 1163, is one of the finest examples of early English churches in the north of England."
+    },
+    {
+        "id": 61,
+        "latitude": 50.8352,
+        "longitude": -0.1758,
+        "country": "United Kingdom",
+        "county_name": "Brighton and Hove",
+        "name": "Hove",
+        "info": "This area's name, possibly meaning 'shelter' or 'cover', suggests it was a place where boats were pulled ashore. During the medieval period, it was a small fishing village. The parish church of St Andrew's, parts of which date back to the 12th century, was a central feature of the village."
+    },
+    {
+        "id": 62,
+        "latitude": 50.85,
+        "longitude": 0.57,
+        "country": "United Kingdom",
+        "county_name": "East Sussex",
+        "name": "Hastings",
+        "info": "This town is famously associated with the Battle of 1066, although the battle itself took place several miles away. It was one of the Cinque Ports, a confederation of coastal towns formed for military and trade purposes. The town's castle, built shortly after the Norman Conquest, was a key defensive structure."
+    },
+    {
+        "id": 63,
+        "latitude": 51.655,
+        "longitude": -0.3957,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Watford",
+        "info": "This town's name, meaning 'the ford by the hunting lodge', was first recorded in an Anglo-Saxon charter of 1007. It grew around a ford where an ancient trackway crossed the River Colne. The parish church of St Mary's, dating from the 12th century, was a focal point of the medieval settlement."
+    },
+    {
+        "id": 64,
+        "latitude": 51.9017,
+        "longitude": -0.2019,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Stevenage",
+        "info": "This town's name, meaning 'strong oak', was first recorded in the Domesday Book of 1086. During the medieval period, it was a small agricultural community. The town's location on the Great North Road contributed to its development as a stop for travelers and traders."
+    },
+    {
+        "id": 65,
+        "latitude": 54.69,
+        "longitude": -1.21,
+        "country": "United Kingdom",
+        "county_name": "Hartlepool",
+        "name": "Hartlepool",
+        "info": "This coastal town's name means 'stag pool' in Old English. It grew around a 7th-century monastery. The town became a significant port in medieval times. St Hilda's Church, founded in 1185, was a landmark of the medieval town and is one of the oldest churches in northeast England."
+    },
+    {
+        "id": 66,
+        "latitude": 53.19,
+        "longitude": -2.89,
+        "country": "United Kingdom",
+        "county_name": "Cheshire West and Chester",
+        "name": "Chester",
+        "info": "This city has Roman origins but flourished in medieval times. Its famous Rows, covered walkways above street level, date back to the 13th century. The city was an important port and trading center. Its castle, originally built in 1070, played a crucial role in controlling the Welsh border."
+    },
+    {
+        "id": 67,
+        "latitude": 51.4828,
+        "longitude": -0.195,
+        "country": "United Kingdom",
+        "county_name": "Hammersmith and Fulham",
+        "name": "Fulham",
+        "info": "This area's name, possibly meaning 'land in a river-bend of mud', was first recorded in 691 AD. During the medieval period, it was a rural area known for its market gardens. The manor was held by the Bishops of London from the 8th century onwards."
+    },
+    {
+        "id": 68,
+        "latitude": 52.523,
+        "longitude": -1.468,
+        "country": "United Kingdom",
+        "county_name": "Warwickshire",
+        "name": "Nuneaton",
+        "info": "This town's name refers to a nun's estate, originating from the 12th-century Benedictine nunnery established here. The settlement grew around this religious house. The town received its market charter in 1226, which played a crucial role in its development."
+    },
+    {
+        "id": 69,
+        "latitude": 51.5175,
+        "longitude": -0.2988,
+        "country": "United Kingdom",
+        "county_name": "Ealing",
+        "name": "Ealing",
+        "info": "This area's name, meaning 'place of the people associated with a man called Gilla', was first recorded in 1127. During the medieval period, it was a small rural village. St Mary's Church, parts of which date from the 12th century, was a central feature of the medieval settlement."
+    },
+    {
+        "id": 70,
+        "latitude": 51.8168,
+        "longitude": -0.8124,
+        "country": "United Kingdom",
+        "county_name": "Buckinghamshire",
+        "name": "Aylesbury",
+        "info": "This town's name means 'fortress of Aegel', and it was first mentioned in the Anglo-Saxon Chronicle of 571 AD. It became the county town in the 13th century. The town received its market charter in 1202, which contributed significantly to its growth and prosperity."
+    },
+    
+    {
+        "id": 71,
+        "latitude": 51.6154,
+        "longitude": -0.0708,
+        "country": "United Kingdom",
+        "county_name": "Enfield",
+        "name": "Edmonton",
+        "info": "This area's name, meaning 'farm/settlement of Eadhelm', was recorded in the Domesday Book of 1086. During the medieval period, it was a small agricultural village. Its parish church, All Saints, dates back to the 12th century and was a focal point of the community."
+    },
+    {
+        "id": 72,
+        "latitude": 51.755,
+        "longitude": -0.336,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Saint Albans",
+        "info": "This city grew around a Benedictine abbey founded in 793 AD, dedicated to Britain's first Christian martyr. It was an important pilgrimage site throughout the medieval period. The town played a significant role in the Wars of the Roses, with two battles fought nearby in 1455 and 1461."
+    },
+    {
+        "id": 73,
+        "latitude": 53.789,
+        "longitude": -2.248,
+        "country": "United Kingdom",
+        "county_name": "Lancashire",
+        "name": "Burnley",
+        "info": "This town's name, meaning 'meadow by the River Brun', was first recorded in 1122. During the medieval period, it was a small market town, receiving its charter in 1294. The area was known for cattle raising and wool production in the Middle Ages."
+    },
+    {
+        "id": 74,
+        "latitude": 53.7167,
+        "longitude": -1.6356,
+        "country": "United Kingdom",
+        "county_name": "Kirklees",
+        "name": "Batley",
+        "info": "This town's name, possibly meaning 'woodland clearing of Bata', was recorded in the Domesday Book of 1086. During the medieval period, it was a small agricultural settlement. The parish church of All Saints, with parts dating back to the 15th century, was a central feature."
+    },
+    {
+        "id": 75,
+        "latitude": 53.5809,
+        "longitude": -0.6502,
+        "country": "United Kingdom",
+        "county_name": "North Lincolnshire",
+        "name": "Scunthorpe",
+        "info": "This area consisted of several small villages during the medieval period. The name 'Scunthorpe' means 'Skuma's thorpe' (farmstead), first recorded in 1145. The region was primarily agricultural, with evidence of iron working dating back to the Roman period."
+    },
+    {
+        "id": 76,
+        "latitude": 52.508,
+        "longitude": -2.089,
+        "country": "United Kingdom",
+        "county_name": "Dudley",
+        "name": "Dudley",
+        "info": "This town grew around a castle built shortly after the Norman Conquest. The castle was a key stronghold during the Anarchy of the 12th century. The town received its market charter in 1260, contributing to its growth as a commercial center."
+    },
+    {
+        "id": 77,
+        "latitude": 51.4575,
+        "longitude": -0.1175,
+        "country": "United Kingdom",
+        "county_name": "Lambeth",
+        "name": "Brixton",
+        "info": "This area's name, meaning 'Brixi's stone', was first recorded in 1067. During the medieval period, it was a rural manor within the larger parish of Lambeth. The manor was held by the Archbishops of Canterbury throughout much of the Middle Ages."
+    },
+    {
+        "id": 78,
+        "latitude": 51.5111,
+        "longitude": -0.3756,
+        "country": "United Kingdom",
+        "county_name": "Ealing",
+        "name": "Southall",
+        "info": "This area's name, meaning 'south corner', was first recorded in 1198. During the medieval period, it was a small agricultural hamlet. The settlement was part of the manor of Hayes, which was held by the Archbishop of Canterbury."
+    },
+    {
+        "id": 79,
+        "latitude": 55.8456,
+        "longitude": -4.4239,
+        "country": "United Kingdom",
+        "county_name": "Renfrewshire",
+        "name": "Paisley",
+        "info": "This town grew around an abbey founded in 1163. The abbey became an important religious center and played a significant role in Scottish medieval history. The town received its charter to become a burgh of barony in 1488, granting it trading rights."
+    },
+    {
+        "id": 80,
+        "latitude": 51.37,
+        "longitude": 0.52,
+        "country": "United Kingdom",
+        "county_name": "Medway",
+        "name": "Chatham",
+        "info": "This town's name, meaning 'village of cottages', was first recorded in 880 AD. During the medieval period, it was a small village. Its strategic location on the River Medway made it important for ship building and repair, a role that grew significantly in later centuries."
+    },
+    {
+        "id": 81,
+        "latitude": 51.5323,
+        "longitude": 0.0554,
+        "country": "United Kingdom",
+        "county_name": "Newham",
+        "name": "East Ham",
+        "info": "This area's name, meaning 'eastern homestead or village', was recorded in the Domesday Book of 1086. During the medieval period, it was a rural parish, with St Mary Magdalene Church, dating from the 12th century, as its focal point."
+    },
+    {
+        "id": 82,
+        "latitude": 51.346,
+        "longitude": -2.977,
+        "country": "United Kingdom",
+        "county_name": "North Somerset",
+        "name": "Weston-super-Mare",
+        "info": "This area's name, meaning 'western town on sea', was first recorded in 1215. During the medieval period, it was a small fishing village. The parish church of St John the Baptist, parts of which date from the 14th century, was a central feature of the community."
+    },
+    {
+        "id": 83,
+        "latitude": 54.8947,
+        "longitude": -2.9364,
+        "country": "United Kingdom",
+        "county_name": "Cumbria",
+        "name": "Carlisle",
+        "info": "This city has Roman origins but was an important frontier town in medieval times. Its castle, first built in the 11th century, was a key defensive structure on the English-Scottish border. The city's cathedral, founded in 1122, became an important religious center."
+    },
+    {
+        "id": 84,
+        "latitude": 54.995,
+        "longitude": -1.43,
+        "country": "United Kingdom",
+        "county_name": "South Tyneside",
+        "name": "South Shields",
+        "info": "This area has a history dating back to Roman times. During the medieval period, it was a fishing port. The Priory of St Hilda, founded in 1139, played a significant role in the town's development. The area was granted a market charter in 1303."
+    },
+    {
+        "id": 85,
+        "latitude": 55.7644,
+        "longitude": -4.1769,
+        "country": "United Kingdom",
+        "county_name": "South Lanarkshire",
+        "name": "East Kilbride",
+        "info": "This area's name refers to the cell or church of St Bride (Kil Bride). During the medieval period, it was a small rural village centered around its parish church. The church, dedicated to St Bride, dates back to the 6th century, though the current building is from later periods."
+    },
+    {
+        "id": 86,
+        "latitude": 52.8019,
+        "longitude": -1.6367,
+        "country": "United Kingdom",
+        "county_name": "Staffordshire",
+        "name": "Burton upon Trent",
+        "info": "This town's name, meaning 'settlement by the River Trent', was recorded in the Domesday Book. It grew around Burton Abbey, founded in 1002. The town became known for its bridge over the Trent, built in the 12th century, which was strategically important during medieval conflicts."
+    },
+    {
+        "id": 87,
+        "latitude": 53.9919,
+        "longitude": -1.5378,
+        "country": "United Kingdom",
+        "county_name": "North Yorkshire",
+        "name": "Harrogate",
+        "info": "During the medieval period, this area was largely rural, consisting of small scattered settlements. The name 'Harrogate' was first recorded in the 13th century, deriving from 'Harald's enclosure'. The area was part of the Royal Forest of Knaresborough, a hunting ground for Norman kings."
+    },
+    {
+        "id": 88,
+        "latitude": 53.099,
+        "longitude": -2.44,
+        "country": "United Kingdom",
+        "county_name": "Cheshire East",
+        "name": "Crewe",
+        "info": "This settlement's name, meaning 'crossing', suggests it was a meeting place of roads or paths. During the medieval period, it was a small agricultural village. The area was part of the estate of Barthomley, mentioned in the Domesday Book of 1086."
+    },
+    {
+        "id": 89,
+        "latitude": 52.48,
+        "longitude": 1.75,
+        "country": "United Kingdom",
+        "county_name": "Suffolk",
+        "name": "Lowestoft",
+        "info": "This coastal town's name, meaning 'homestead of a man called Hlothver', was recorded in the Domesday Book. During the medieval period, it was a small fishing village. The town grew in importance in the Middle Ages due to its herring fishery."
+    },
+    {
+        "id": 90,
+        "latitude": 52.37,
+        "longitude": -1.26,
+        "country": "United Kingdom",
+        "county_name": "Warwickshire",
+        "name": "Rugby",
+        "info": "This town's name, possibly meaning 'dry place', was first recorded in 1086 in the Domesday Book. During the medieval period, it was a small rural settlement. The parish church of St Andrew, with parts dating from the 13th century, was a focal point of the community."
+    },
+    
+    {
+        "id": 91,
+        "latitude": 51.623,
+        "longitude": 0.009,
+        "country": "United Kingdom",
+        "county_name": "Waltham Forest",
+        "name": "Chingford",
+        "info": "This area's name, meaning 'ford of the stump-dwellers', was first recorded in 1086 in the Domesday Book. During the medieval period, it was a small agricultural settlement on the edge of a royal forest. The parish church of All Saints, parts of which date from the 12th century, was a focal point of the community."
+    },
+    {
+        "id": 92,
+        "latitude": 51.5404,
+        "longitude": -0.4778,
+        "country": "United Kingdom",
+        "county_name": "Hillingdon",
+        "name": "Uxbridge",
+        "info": "This town's name, meaning 'bridge belonging to the Wixan' (a Saxon tribe), was first recorded in 1139. During the medieval period, it was a small market town. Its location on the road between London and Oxford contributed to its growth. The town received its first market charter in 1180."
+    },
+    {
+        "id": 93,
+        "latitude": 52.58,
+        "longitude": -1.98,
+        "country": "United Kingdom",
+        "county_name": "Walsall",
+        "name": "Walsall",
+        "info": "This town's name, meaning 'valley of the Welsh speakers', was first recorded in 1002. It was mentioned in the Domesday Book as 'Walesho'. During the medieval period, it grew as a market town, receiving its first market charter in 1220. The town became known for its leather industry in the 14th century."
+    },
+    {
+        "id": 94,
+        "latitude": 51.475,
+        "longitude": 0.33,
+        "country": "United Kingdom",
+        "county_name": "Thurrock",
+        "name": "Grays",
+        "info": "This area's name derives from the de Gray family, who were granted the manor in 1195. During the medieval period, it was a small agricultural and fishing community along the River Thames. The parish church of St Peter and St Paul has origins dating back to the 13th century."
+    },
+    {
+        "id": 95,
+        "latitude": 51.3868,
+        "longitude": -0.4133,
+        "country": "United Kingdom",
+        "county_name": "Surrey",
+        "name": "Walton upon Thames",
+        "info": "This town's name, meaning 'settlement where Britons live', was first recorded in the 10th century. During the medieval period, it was a small village centered around St Mary's Church, parts of which date from the 12th century. The area was known for its ferry crossing over the River Thames."
+    },
+    {
+        "id": 96,
+        "latitude": 51.4002,
+        "longitude": -0.1086,
+        "country": "United Kingdom",
+        "county_name": "Croydon",
+        "name": "Thornton Heath",
+        "info": "During the medieval period, this area was part of the Great North Wood, a vast forest that covered much of south London. It was sparsely populated, with scattered farms and cottages. The name 'Thornton' is believed to derive from 'thorn tree on a farm', first recorded in the 16th century."
+    },
+    {
+        "id": 97,
+        "latitude": 51.599,
+        "longitude": -0.187,
+        "country": "United Kingdom",
+        "county_name": "Barnet",
+        "name": "Finchley",
+        "info": "This area's name, meaning 'finch clearing', was first recorded in the 13th century. During the medieval period, it was a small rural hamlet within the Bishop of London's hunting park. St Mary's Church, the oldest parts of which date from the 13th century, was the center of the community."
+    },
+    {
+        "id": 98,
+        "latitude": 51.5,
+        "longitude": -0.19,
+        "country": "United Kingdom",
+        "county_name": "Kensington and Chelsea",
+        "name": "Kensington",
+        "info": "This area's name, possibly meaning 'Cynesige's meadow', was first recorded in the Domesday Book of 1086. During the medieval period, it was a rural village outside London. St Mary Abbots Church, which has origins dating back to the 12th century, was a focal point of the community."
+    },
+    {
+        "id": 99,
+        "latitude": 52.974,
+        "longitude": -0.0214,
+        "country": "United Kingdom",
+        "county_name": "Lincolnshire",
+        "name": "Boston",
+        "info": "This town's name, meaning 'Botulf's stone', refers to St Botolph who founded a monastery here in 654. It became a significant port and trading center in the medieval period. The town's impressive St Botolph's Church, known as 'The Stump', was begun in 1309 and is one of the largest parish churches in England."
+    },
+    {
+        "id": 100,
+        "latitude": 50.4353,
+        "longitude": -3.5625,
+        "country": "United Kingdom",
+        "county_name": "Devon",
+        "name": "Paignton",
+        "info": "This town's name, meaning 'Paega's town', was first recorded in the Domesday Book of 1086. During the medieval period, it was a small fishing village. The area was governed by the Bishop of Exeter, who built a palace here in the 14th century, parts of which still stand today."
+    },
+    {
+        "id": 101,
+        "latitude": 50.88,
+        "longitude": -1.03,
+        "country": "United Kingdom",
+        "county_name": "Hampshire",
+        "name": "Waterlooville",
+        "info": "During the medieval period, this area was part of the Forest of Bere, a royal hunting ground. It was sparsely populated woodland with scattered farmsteads. The modern town didn't develop until after the Battle of Waterloo in 1815, from which it takes its name."
+    },
+    {
+        "id": 102,
+        "latitude": 53.875,
+        "longitude": -1.706,
+        "country": "United Kingdom",
+        "county_name": "Leeds",
+        "name": "Guiseley",
+        "info": "This settlement's name, meaning 'Gislic's clearing', was first recorded in the Domesday Book of 1086. During the medieval period, it was a small agricultural village. The parish church of St Oswald, parts of which date from the 12th century, was the center of the community."
+    },
+    {
+        "id": 103,
+        "latitude": 51.5565,
+        "longitude": 0.2128,
+        "country": "United Kingdom",
+        "county_name": "Havering",
+        "name": "Hornchurch",
+        "info": "This area's name refers to a church with horn-like gables, first recorded in 1222. During the medieval period, it was part of the Liberty of Havering, an area under direct control of the monarchy. The parish church of St Andrew, with origins in the 13th century, was a focal point of the community."
+    },
+    {
+        "id": 104,
+        "latitude": 51.4009,
+        "longitude": -0.1517,
+        "country": "United Kingdom",
+        "county_name": "Merton",
+        "name": "Mitcham",
+        "info": "This area's name, meaning 'big settlement', was first recorded in 962 AD. During the medieval period, it was known for its lavender fields. The parish church of St Peter and St Paul has origins dating back to the Saxon period, though much of the current building is from later centuries."
+    },
+    {
+        "id": 105,
+        "latitude": 51.4496,
+        "longitude": -0.4089,
+        "country": "United Kingdom",
+        "county_name": "Hounslow",
+        "name": "Feltham",
+        "info": "This settlement's name, meaning 'homestead in open land', was first recorded in 969 AD. During the medieval period, it was a small agricultural village. The area was part of the ancient parish of Bedfont, mentioned in the Domesday Book of 1086."
+    },
+    {
+        "id": 106,
+        "latitude": 52.4575,
+        "longitude": -2.1479,
+        "country": "United Kingdom",
+        "county_name": "Dudley",
+        "name": "Stourbridge",
+        "info": "This town's name, meaning 'bridge over the River Stour', was first recorded in 1255. During the medieval period, it was a small hamlet within the manor of Swynford, mentioned in the Domesday Book. The town's growth was spurred by its glassmaking industry, which began in the 15th century."
+    },
+    {
+        "id": 107,
+        "latitude": 51.375,
+        "longitude": 0.5,
+        "country": "United Kingdom",
+        "county_name": "Medway",
+        "name": "Rochester",
+        "info": "This city has Roman origins but was an important medieval center. Its castle, built after the Norman Conquest, was a key defensive structure. The city's cathedral, founded in 604 AD, was rebuilt in the 12th century and became an important pilgrimage site. The city received its first charter in 1227."
+    },
+    {
+        "id": 108,
+        "latitude": 53.691,
+        "longitude": -1.633,
+        "country": "United Kingdom",
+        "county_name": "Kirklees",
+        "name": "Dewsbury",
+        "info": "This town's name, possibly meaning 'fortified settlement of a man called Dēaw', was first recorded in 1086 in the Domesday Book. It grew around an Anglo-Saxon settlement and became an important religious center. The parish church of All Saints, dating from the 13th century, was built on the site of an earlier Saxon church."
+    },
+    {
+        "id": 109,
+        "latitude": 51.5135,
+        "longitude": -0.2707,
+        "country": "United Kingdom",
+        "county_name": "Ealing",
+        "name": "Acton",
+        "info": "This area's name, meaning 'oak farm', was first recorded in 1181. During the medieval period, it was a small agricultural village. The parish church of St Mary's, parts of which date from the 13th century, was the center of the community. The area was known for its oak forests in early times."
+    },
+    {
+        "id": 110,
+        "latitude": 51.449,
+        "longitude": -0.337,
+        "country": "United Kingdom",
+        "county_name": "Richmond upon Thames",
+        "name": "Twickenham",
+        "info": "This area's name, meaning 'homestead between two streams', was first recorded in 704 AD. During the medieval period, it was a small riverside village. The parish church of St Mary's, parts of which date from the 14th century, was a focal point of the community. The area was known for its market gardens supplying London."
+    },
+    
+    {
+        "id": 111,
+        "latitude": 53.046,
+        "longitude": -2.993,
+        "country": "United Kingdom",
+        "county_name": "Wrexham",
+        "name": "Wrecsam",
+        "info": "This town's name, of Welsh origin meaning 'homestead of Wryhsgen', was first recorded in 1161. During the medieval period, it was a small market town in the Welsh Marches. The parish church of St Giles, founded in the 13th century and rebuilt in the 15th, was one of the 'Seven Wonders of Wales'."
+    },
+    {
+        "id": 112,
+        "latitude": 53.279,
+        "longitude": -2.897,
+        "country": "United Kingdom",
+        "county_name": "Cheshire West and Chester",
+        "name": "Ellesmere Port",
+        "info": "During the medieval period, this area was largely marshland near the River Mersey. The nearest significant settlement was Stanlow Abbey, founded in 1178 by John fitz Richard. The abbey played a crucial role in draining the marshes and developing the land for agriculture."
+    },
+    {
+        "id": 113,
+        "latitude": 54.66,
+        "longitude": -5.67,
+        "country": "United Kingdom",
+        "county_name": "Ards and North Down",
+        "name": "Bangor",
+        "info": "This coastal settlement was the site of a major monastery founded by St Comgall in 558 AD. The monastery became one of the most important centers of learning in Ireland during the early medieval period. Viking raids in the 9th century led to the decline of the monastery, but the town remained an important religious center."
+    },
+    {
+        "id": 114,
+        "latitude": 51.019,
+        "longitude": -3.1,
+        "country": "United Kingdom",
+        "county_name": "Somerset",
+        "name": "Taunton",
+        "info": "This town's name, meaning 'settlement on the River Tone', was first recorded in 904 AD. It grew around a castle built in the 12th century. The town received its first charter in 1200, allowing it to hold a market. During the medieval period, it was known for its textile industry, particularly woolen cloth."
+    },
+    {
+        "id": 115,
+        "latitude": 52.7725,
+        "longitude": -1.2078,
+        "country": "United Kingdom",
+        "county_name": "Leicestershire",
+        "name": "Loughborough",
+        "info": "This town's name, possibly meaning 'fortified place by the lake', was first recorded in the 11th century. It was mentioned in the Domesday Book of 1086. The town received a market charter in 1221, which contributed significantly to its growth. The parish church of All Saints dates back to the 14th century."
+    },
+    {
+        "id": 116,
+        "latitude": 51.54,
+        "longitude": 0.08,
+        "country": "United Kingdom",
+        "county_name": "Barking and Dagenham",
+        "name": "Barking",
+        "info": "This area grew around Barking Abbey, founded in 666 AD, which became one of the most important nunneries in medieval England. The settlement was mentioned in the Domesday Book of 1086. The abbey's influence made Barking a prosperous market town throughout the medieval period."
+    },
+    {
+        "id": 117,
+        "latitude": 51.6185,
+        "longitude": -0.2729,
+        "country": "United Kingdom",
+        "county_name": "Barnet",
+        "name": "Edgware",
+        "info": "This area's name, meaning 'Ecgi's weir', was first recorded in 1216. During the medieval period, it was a small rural hamlet. The settlement grew along an ancient trackway, now the modern high street. St Margaret of Antioch Church, with origins in the 12th century, was the focal point of the community."
+    },
+    {
+        "id": 118,
+        "latitude": 50.8094,
+        "longitude": -0.5409,
+        "country": "United Kingdom",
+        "county_name": "West Sussex",
+        "name": "Littlehampton",
+        "info": "During the medieval period, this was a small fishing hamlet at the mouth of the River Arun. The area was part of the Rape of Arundel, one of the six administrative divisions of Sussex established by the Normans. The first recorded mention of the settlement dates from 1309."
+    },
+    {
+        "id": 119,
+        "latitude": 51.576,
+        "longitude": -0.433,
+        "country": "United Kingdom",
+        "county_name": "Hillingdon",
+        "name": "Ruislip",
+        "info": "This area's name, meaning 'leaping place on marsh', was first recorded in 1085. The Domesday Book mentions it as held by Ernulf de Hesdin. During the medieval period, it was a small rural village. The parish church of St Martin's, parts of which date from the 13th century, was the center of the community."
+    },
+    {
+        "id": 120,
+        "latitude": 51.4279,
+        "longitude": -0.1235,
+        "country": "United Kingdom",
+        "county_name": "Lambeth",
+        "name": "Streatham",
+        "info": "This area's name, meaning 'homestead on the street', refers to its location on the Roman road from London to Brighton. It was first recorded in 675 AD as Estreham. During the medieval period, it was a small rural village. The parish church of St Leonard, with parts dating from the 14th century, was the focal point of the community."
+    },
+    {
+        "id": 121,
+        "latitude": 51.132,
+        "longitude": 0.263,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Royal Tunbridge Wells",
+        "info": "During the medieval period, this area was part of the Lowey of Tonbridge, a district associated with Tonbridge Castle. It was largely forested and sparsely populated. The town itself didn't develop until the discovery of the Chalybeate Spring in 1606, long after the medieval period."
+    },
+    {
+        "id": 122,
+        "latitude": 53.35,
+        "longitude": -3.003,
+        "country": "United Kingdom",
+        "county_name": "Wirral",
+        "name": "Bebington",
+        "info": "This area's name, meaning 'Bebba's settlement', suggests Anglo-Saxon origins. It was recorded in the Domesday Book of 1086. During the medieval period, it was a small agricultural village. The parish church of St Andrew, parts of which date from the 14th century, was the center of the community."
+    },
+    {
+        "id": 123,
+        "latitude": 53.25,
+        "longitude": -2.13,
+        "country": "United Kingdom",
+        "county_name": "Cheshire East",
+        "name": "Macclesfield",
+        "info": "This town's name, possibly meaning 'Maccel's field', was first recorded in the Domesday Book of 1086. It received its borough charter in 1261 from the Earl of Chester. During the medieval period, it was known for its cattle market and began to develop a silk button industry."
+    },
+    {
+        "id": 124,
+        "latitude": 52.3028,
+        "longitude": -0.6944,
+        "country": "United Kingdom",
+        "county_name": "Northamptonshire",
+        "name": "Wellingborough",
+        "info": "This town's name, meaning 'stronghold of Waendel's people', has Anglo-Saxon origins. It was mentioned in the Domesday Book of 1086. The town received a market charter in 1201, which aided its growth. The parish church of All Hallows, with parts dating from the 13th century, was a focal point of the medieval community."
+    },
+    {
+        "id": 125,
+        "latitude": 52.3931,
+        "longitude": -0.7229,
+        "country": "United Kingdom",
+        "county_name": "Northamptonshire",
+        "name": "Kettering",
+        "info": "This town's name, meaning 'the place of Ketter's people', has Anglo-Saxon origins. It was recorded in the Domesday Book of 1086. During the medieval period, it was a small market town. The parish church of SS Peter and Paul, with parts dating from the 13th century, was the center of the community."
+    },
+    {
+        "id": 126,
+        "latitude": 51.878,
+        "longitude": 0.55,
+        "country": "United Kingdom",
+        "county_name": "Essex",
+        "name": "Braintree",
+        "info": "This town's name, possibly meaning 'settlement by the river Blackwater', was first recorded in the Domesday Book of 1086. During the medieval period, it was a small market town. The town's wool and cloth industry began to develop in the 14th century, laying the foundation for its later prosperity."
+    },
+    {
+        "id": 127,
+        "latitude": 52.2919,
+        "longitude": -1.5358,
+        "country": "United Kingdom",
+        "county_name": "Warwickshire",
+        "name": "Royal Leamington Spa",
+        "info": "During the medieval period, this area was a small village known as Leamington Priors. It belonged to Kenilworth Priory from the 12th century. The village was mentioned in the Domesday Book of 1086. The area remained largely agricultural until the discovery of spa waters in the late 18th century."
+    },
+    {
+        "id": 128,
+        "latitude": 54.1108,
+        "longitude": -3.2261,
+        "country": "United Kingdom",
+        "county_name": "Cumbria",
+        "name": "Barrow in Furness",
+        "info": "During the medieval period, this area was sparsely populated, with small farming and fishing communities. The nearby Furness Abbey, founded in 1123, was the dominant influence in the region. The abbey owned much of the land and played a crucial role in developing the area's iron ore resources."
+    },
+    {
+        "id": 129,
+        "latitude": 56.0719,
+        "longitude": -3.4393,
+        "country": "United Kingdom",
+        "county_name": "Fife",
+        "name": "Dunfermline",
+        "info": "This town was the capital of Scotland from the 11th to 13th centuries. Dunfermline Abbey, founded in 1128, became a major center of Scottish royal power. King Malcolm III and Queen Margaret made it their residence in the 11th century. The town was granted royal burgh status by David II in the 14th century."
+    },
+    {
+        "id": 130,
+        "latitude": 53.3838,
+        "longitude": -2.3547,
+        "country": "United Kingdom",
+        "county_name": "Trafford",
+        "name": "Altrincham",
+        "info": "This town's name, meaning 'homestead of Aldhere's people', has Anglo-Saxon origins. It was granted a charter for a market in 1290 by the Baron of Dunham Massey. During the medieval period, it developed as a market town, with agriculture and weaving as its main industries."
+    },
+    
+    {
+        "id": 131,
+        "latitude": 54.0489,
+        "longitude": -2.8014,
+        "country": "United Kingdom",
+        "county_name": "Lancashire",
+        "name": "Lancaster",
+        "info": "This city's name, meaning 'Roman fort on the River Lune', dates back to the 9th century. Its castle, originally built in the 11th century, was a key stronghold. The city was granted its first charter in 1193. During the medieval period, it was an important market town and administrative center for the County Palatine of Lancaster."
+    },
+    {
+        "id": 132,
+        "latitude": 53.4872,
+        "longitude": -3.0343,
+        "country": "United Kingdom",
+        "county_name": "Sefton",
+        "name": "Crosby",
+        "info": "This area's name, meaning 'village with crosses', suggests early Christian influence. It was recorded in the Domesday Book of 1086. During the medieval period, it was a small agricultural community. The village was part of the Barony of Warrington and later came under the control of the Molyneux family."
+    },
+    {
+        "id": 133,
+        "latitude": 53.4457,
+        "longitude": -2.9891,
+        "country": "United Kingdom",
+        "county_name": "Sefton",
+        "name": "Bootle",
+        "info": "This town's name, meaning 'dwelling', was first recorded in the Domesday Book of 1086 as 'Boltelai'. During the medieval period, it was a small hamlet near the Irish Sea coast. The area was part of the parish of Walton-on-the-Hill and remained largely rural until the 19th century."
+    },
+    {
+        "id": 134,
+        "latitude": 51.5423,
+        "longitude": -0.0026,
+        "country": "United Kingdom",
+        "county_name": "Newham",
+        "name": "Stratford",
+        "info": "This area's name, meaning 'ford on a Roman road', indicates its ancient origins. During the medieval period, it was a small agricultural village. The area was part of the parish of West Ham, mentioned in the Domesday Book. Stratford Langthorne Abbey, founded in 1135, was a significant local landmark."
+    },
+    {
+        "id": 135,
+        "latitude": 51.0792,
+        "longitude": 1.1794,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Folkestone",
+        "info": "This coastal town's name, possibly meaning 'Folca's stone', suggests Anglo-Saxon origins. It was recorded in the Domesday Book of 1086. The town grew around the parish church of St Mary and St Eanswythe, founded in the 7th century. During the medieval period, it was a small fishing port and part of the Cinque Ports confederation."
+    },
+    {
+        "id": 136,
+        "latitude": 55.945,
+        "longitude": -3.994,
+        "country": "United Kingdom",
+        "county_name": "North Lanarkshire",
+        "name": "Cumbernauld",
+        "info": "During the medieval period, this area was largely rural, part of the old Stirlingshire. The name 'Cumbernauld' comes from the Gaelic 'comar nan allt', meaning 'meeting of the streams'. The area was controlled by the Comyn family until their downfall in the 14th century, after which it passed to the Fleming family."
+    },
+    {
+        "id": 137,
+        "latitude": 51.208,
+        "longitude": -1.48,
+        "country": "United Kingdom",
+        "county_name": "Hampshire",
+        "name": "Andover",
+        "info": "This town's name, possibly meaning 'ash tree stream', has Anglo-Saxon origins. It was recorded in the Domesday Book of 1086. The town received its first charter in 1175 from King Richard I. During the medieval period, it was known for its wool trade and as a stopping point on the route from London to Exeter."
+    },
+    {
+        "id": 138,
+        "latitude": 51.66,
+        "longitude": -3.81,
+        "country": "United Kingdom",
+        "county_name": "Neath Port Talbot",
+        "name": "Neath",
+        "info": "This town grew around a Roman fort and later a Norman castle built in the 12th century. Its Welsh name 'Castell-nedd' means 'castle on the Neath'. Neath Abbey, founded in 1130, was one of the wealthiest Cistercian monasteries in Wales during the medieval period. The town was granted a charter in 1280."
+    },
+    {
+        "id": 139,
+        "latitude": 52.488,
+        "longitude": -2.05,
+        "country": "United Kingdom",
+        "county_name": "Sandwell",
+        "name": "Rowley Regis",
+        "info": "This area's name, meaning 'rough clearing', has Anglo-Saxon origins. During the medieval period, it was part of the royal forest of Kinver. The 'Regis' part of the name indicates it was once crown property. St Giles Church, the oldest parts of which date from the 12th century, was the center of the medieval community."
+    },
+    {
+        "id": 140,
+        "latitude": 54.2825,
+        "longitude": -0.4,
+        "country": "United Kingdom",
+        "county_name": "North Yorkshire",
+        "name": "Scarborough",
+        "info": "This coastal town's name, possibly meaning 'stronghold of Skardi', suggests Viking origins. Its castle, built in the 12th century, was a key defensive structure. The town received its first charter in 1155. During the medieval period, it was an important fishing port and trading center, holding one of England's largest fairs."
+    },
+    {
+        "id": 141,
+        "latitude": 55.98,
+        "longitude": -3.17,
+        "country": "United Kingdom",
+        "county_name": "Edinburgh, City of",
+        "name": "Leith",
+        "info": "This port town's name is of Scottish Gaelic origin, possibly meaning 'wet'. It served as the port for Edinburgh throughout the medieval period. The earliest surviving mention of the town is from 1128 in the Charter of Holyrood Abbey. In 1329, King Robert I granted Leith to Edinburgh, a significant moment in its medieval history."
+    },
+    {
+        "id": 142,
+        "latitude": 50.9452,
+        "longitude": -2.637,
+        "country": "United Kingdom",
+        "county_name": "Somerset",
+        "name": "Yeovil",
+        "info": "This town's name, meaning 'river town', has Celtic origins. It was recorded in the Domesday Book of 1086 as 'Givele'. During the medieval period, it was known for its glove-making industry. The town was granted a charter for a fair in 1205 by King John. The Church of St John the Baptist dates partly from the 14th century."
+    },
+    {
+        "id": 143,
+        "latitude": 51.451,
+        "longitude": 0.052,
+        "country": "United Kingdom",
+        "county_name": "Greenwich",
+        "name": "Eltham",
+        "info": "This area's name, meaning 'homestead where elms grow', has Anglo-Saxon origins. It was mentioned in the Domesday Book of 1086. Eltham Palace, originally a moated manor house given to Edward II in 1305, became an important royal residence in the 14th and 15th centuries. It was a favorite home of the Plantagenet kings."
+    },
+    {
+        "id": 144,
+        "latitude": 51.5541,
+        "longitude": -0.1744,
+        "country": "United Kingdom",
+        "county_name": "Camden",
+        "name": "Hampstead",
+        "info": "This area's name, meaning 'homestead', was first recorded in 986 as 'Hamestede'. During the medieval period, it was a small farming village belonging to Westminster Abbey. The area was known for its rich woodlands, which provided fuel and building materials for London. St Mary's Church, the oldest parts dating from the 14th century, was the focal point of the community."
+    },
+    {
+        "id": 145,
+        "latitude": 53.125,
+        "longitude": -1.261,
+        "country": "United Kingdom",
+        "county_name": "Nottinghamshire",
+        "name": "Sutton in Ashfield",
+        "info": "This town's name, meaning 'south farm', suggests Anglo-Saxon origins. During the medieval period, it was a small agricultural settlement within Sherwood Forest. The area was part of the ancient wapentake of Broxtowe. St Mary Magdalene's Church, parts of which date from the 12th century, was the center of the medieval community."
+    },
+    {
+        "id": 146,
+        "latitude": 51.4015,
+        "longitude": -0.1949,
+        "country": "United Kingdom",
+        "county_name": "Merton",
+        "name": "Morden",
+        "info": "This area's name, meaning 'hill in a moor', was first recorded in 675 as 'Mordone'. During the medieval period, it was a small farming village. The manor was held by Westminster Abbey from the late 12th century. St Lawrence Church, parts of which date from the 12th century, was the focal point of the medieval community."
+    },
+    {
+        "id": 147,
+        "latitude": 51.6444,
+        "longitude": -0.1997,
+        "country": "United Kingdom",
+        "county_name": "Barnet",
+        "name": "Barnet",
+        "info": "This area's name, meaning 'land cleared by burning', has Anglo-Saxon origins. It was recorded in the 12th century as 'Barneto'. The town grew around an important horse fair, granted a royal charter in 1199. St John the Baptist Church, founded in the 13th century, was a significant landmark. The Battle of Barnet, a key engagement in the Wars of the Roses, took place nearby in 1471."
+    },
+    {
+        "id": 148,
+        "latitude": 53.4466,
+        "longitude": -2.3086,
+        "country": "United Kingdom",
+        "county_name": "Trafford",
+        "name": "Stretford",
+        "info": "This area's name, meaning 'ford by a Roman road', indicates its ancient origins. It was first recorded in 1042 as 'Stretford'. During the medieval period, it was a small agricultural settlement. The area was part of the manor of Barton-upon-Irwell, mentioned in the Domesday Book of 1086."
+    },
+    {
+        "id": 149,
+        "latitude": 51.408,
+        "longitude": -0.022,
+        "country": "United Kingdom",
+        "county_name": "Bromley",
+        "name": "Beckenham",
+        "info": "This area's name, meaning 'homestead by the stream', was first recorded in 862 as 'Biohhahema'. During the medieval period, it was a small rural village. The manor was held by the Bishops of Rochester from the 11th to 16th centuries. St George's Church, parts of which date from the 13th century, was the center of the medieval community."
+    },
+    {
+        "id": 150,
+        "latitude": 51.5299,
+        "longitude": -0.3488,
+        "country": "United Kingdom",
+        "county_name": "Ealing",
+        "name": "Greenford",
+        "info": "This area's name, meaning 'green ford', was first recorded in 848 as 'Greneford'. During the medieval period, it was a small agricultural village. The manor was held by Westminster Abbey from the 11th century. Holy Cross Church, parts of which date from the 12th century, was the focal point of the medieval community."
+    },
+    
+    {
+        "id": 151,
+        "latitude": 51.702,
+        "longitude": -0.035,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Cheshunt",
+        "info": "This area's name, possibly meaning 'castle on the River Cnt', suggests early fortifications. It was recorded in the Domesday Book of 1086 as 'Cestrehunt'. During the medieval period, it was part of the royal manor of Hertford. The Knights Templar owned property here in the 13th century. St Mary's Church, with parts dating from the 13th century, was a focal point of the community."
+    },
+    {
+        "id": 152,
+        "latitude": 53.48,
+        "longitude": -2.89,
+        "country": "United Kingdom",
+        "county_name": "Knowsley",
+        "name": "Kirkby",
+        "info": "This area's name, meaning 'church settlement', indicates early Christian influence. It was part of the West Derby Hundred in medieval times. The manor was held by the Barons of Halton from the 12th century. St Chad's Church, though rebuilt in later centuries, has origins dating back to the Norman period."
+    },
+    {
+        "id": 153,
+        "latitude": 51.07,
+        "longitude": -1.79,
+        "country": "United Kingdom",
+        "county_name": "Wiltshire",
+        "name": "Salisbury",
+        "info": "This city, originally located at Old Sarum, was moved to its present site in 1220. The construction of its famous cathedral began in 1220, completed by 1258. It received its first charter in 1227 from Henry III. The city's grid pattern street layout, unusual for medieval towns, was planned when the city was relocated."
+    },
+    {
+        "id": 154,
+        "latitude": 53.4897,
+        "longitude": -2.0952,
+        "country": "United Kingdom",
+        "county_name": "Tameside",
+        "name": "Ashton",
+        "info": "This town's name, meaning 'settlement by ash trees', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Estun'. During the medieval period, it was a small agricultural settlement. The parish church of St Michael and All Angels, founded in the 12th century, was a key feature of the medieval town."
+    },
+    {
+        "id": 155,
+        "latitude": 51.394,
+        "longitude": -0.307,
+        "country": "United Kingdom",
+        "county_name": "Kingston upon Thames",
+        "name": "Surbiton",
+        "info": "During the medieval period, this area was part of the royal manor of Kingston. The name 'Surbiton' wasn't recorded until the 19th century. The area was largely rural, with scattered farms and cottages. The nearby town of Kingston was an important crossing point on the River Thames and the site of Saxon coronations."
+    },
+    {
+        "id": 156,
+        "latitude": 53.716,
+        "longitude": -1.356,
+        "country": "United Kingdom",
+        "county_name": "Wakefield",
+        "name": "Castleford",
+        "info": "This town's history dates back to Roman times when it was a fort guarding a river crossing. Its name, meaning 'fortified place', was recorded in the Domesday Book as 'Castelford'. During the medieval period, it was a small market town. The parish church of All Saints, with parts dating from the 12th century, was a focal point of the community."
+    },
+    {
+        "id": 157,
+        "latitude": 51.4452,
+        "longitude": -0.0207,
+        "country": "United Kingdom",
+        "county_name": "Lewisham",
+        "name": "Catford",
+        "info": "This area's name, meaning 'the ford of the wild cats', was first recorded in 1254. During the medieval period, it was a rural hamlet within the parish of Lewisham. The manor was held by the Abbey of Ghent until the Dissolution of the Monasteries in the 16th century."
+    },
+    {
+        "id": 158,
+        "latitude": 53.3042,
+        "longitude": -1.1244,
+        "country": "United Kingdom",
+        "county_name": "Nottinghamshire",
+        "name": "Worksop",
+        "info": "This town's name, possibly meaning 'Weorcs's valley', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Werchesope'. The town grew around Worksop Priory, founded in the early 12th century. During the medieval period, it was known for its malting industry and its proximity to Sherwood Forest."
+    },
+    {
+        "id": 159,
+        "latitude": 53.7492,
+        "longitude": -1.6023,
+        "country": "United Kingdom",
+        "county_name": "Leeds",
+        "name": "Morley",
+        "info": "This town's name, meaning 'woodland clearing by a moor', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Morelei'. During the medieval period, it was a small agricultural settlement. St Mary's Church, with parts dating from the 14th century, was a key feature of the medieval town."
+    },
+    {
+        "id": 160,
+        "latitude": 51.743,
+        "longitude": -3.378,
+        "country": "United Kingdom",
+        "county_name": "Merthyr Tydfil",
+        "name": "Merthyr Tudful",
+        "info": "This town's name refers to Saint Tydfil, a 5th-century Welsh princess and martyr. During the medieval period, it was a small village centered around a church dedicated to St Tydfil. The area was part of the Welsh kingdom of Morgannwg. The nearby Morlais Castle, built in the 13th century, was a significant local landmark."
+    },
+    {
+        "id": 161,
+        "latitude": 53.555,
+        "longitude": -2.187,
+        "country": "United Kingdom",
+        "county_name": "Rochdale",
+        "name": "Middleton",
+        "info": "This town's name, meaning 'middle farm', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Mamecestre'. During the medieval period, it was a small agricultural settlement. The parish church of St Leonard, founded in 1412, became known as the 'Cathedral of the Lowlands' due to its size and grandeur."
+    },
+    {
+        "id": 162,
+        "latitude": 51.2834,
+        "longitude": -0.8456,
+        "country": "United Kingdom",
+        "county_name": "Hampshire",
+        "name": "Fleet",
+        "info": "During the medieval period, this area was part of the Crondall Hundred and was largely comprised of heathland and forest. The name 'Fleet' refers to a stream, first recorded in the 13th century as 'La Flete'. The area remained sparsely populated until the 19th century when the railway arrived."
+    },
+    {
+        "id": 163,
+        "latitude": 50.85,
+        "longitude": -1.18,
+        "country": "United Kingdom",
+        "county_name": "Hampshire",
+        "name": "Fareham",
+        "info": "This town's name, meaning 'homestead by the ferries', indicates its maritime connections. It was recorded in the Domesday Book as 'Ferneham'. During the medieval period, it was a small market town and port. The parish church of St Peter and St Paul, parts of which date from the 12th century, was a focal point of the community."
+    },
+    {
+        "id": 164,
+        "latitude": 53.4487,
+        "longitude": -2.3747,
+        "country": "United Kingdom",
+        "county_name": "Trafford",
+        "name": "Urmston",
+        "info": "This area's name, meaning 'Orm's farm', suggests Norse origins. It was first recorded in 1322 as 'Urmeston'. During the medieval period, it was a small agricultural settlement. The area was part of the Barony of Manchester, established after the Norman Conquest."
+    },
+    {
+        "id": 165,
+        "latitude": 51.3656,
+        "longitude": -0.1963,
+        "country": "United Kingdom",
+        "county_name": "Sutton",
+        "name": "Sutton",
+        "info": "This area's name, meaning 'south farm', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Sudtone'. During the medieval period, it was a rural village centered around St Nicholas Church, parts of which date from the 12th century. The manor was held by Chertsey Abbey from the late 8th century until the Dissolution of the Monasteries."
+    },
+    
+    {
+        "id": 166,
+        "latitude": 51.578,
+        "longitude": -3.218,
+        "country": "United Kingdom",
+        "county_name": "Caerphilly",
+        "name": "Caerphilly",
+        "info": "This town grew around a massive castle, one of the largest in Britain, built in the 13th century by Gilbert de Clare. The castle played a crucial role in the conflicts between the Marcher Lords and the Welsh princes. During the medieval period, the town was a small settlement serving the castle and its garrison."
+    },
+    {
+        "id": 167,
+        "latitude": 51.128,
+        "longitude": -2.993,
+        "country": "United Kingdom",
+        "county_name": "Somerset",
+        "name": "Bridgwater",
+        "info": "This town's name, originally 'Brugie', means 'place at the bridge'. It was granted a charter by King John in 1200. The town grew around its port on the River Parrett, becoming an important trading center. Bridgwater Castle, built in the early 11th century, was a key local landmark until its destruction in the 17th century."
+    },
+    {
+        "id": 168,
+        "latitude": 51.401,
+        "longitude": -1.323,
+        "country": "United Kingdom",
+        "county_name": "West Berkshire",
+        "name": "Newbury",
+        "info": "This town's name, meaning 'new fortified settlement', suggests it was founded in the 11th century. It was granted a charter for a market in 1596. During the medieval period, it was an important center for the cloth trade. The parish church of St Nicolas, with parts dating from the 13th century, was a focal point of the medieval community."
+    },
+    {
+        "id": 169,
+        "latitude": 51.4594,
+        "longitude": 0.1097,
+        "country": "United Kingdom",
+        "county_name": "Bexley",
+        "name": "Welling",
+        "info": "During the medieval period, this area was part of the parish of Bexley. The name 'Welling' is thought to derive from 'Wellings', meaning 'place of the spring'. It was largely rural, consisting of scattered farms and woodland. The area was part of the ancient Kentish Hundred of Lessness."
+    },
+    {
+        "id": 170,
+        "latitude": 51.46,
+        "longitude": -2.505,
+        "country": "United Kingdom",
+        "county_name": "South Gloucestershire",
+        "name": "Kingswood",
+        "info": "This area was part of the royal hunting forest of Kingswood during the medieval period. The forest was established by the Norman kings and was an important source of timber and venison. The area remained largely wooded until the 18th century, with small settlements on its fringes engaged in charcoal burning and small-scale mining."
+    },
+    {
+        "id": 171,
+        "latitude": 51.886,
+        "longitude": -0.521,
+        "country": "United Kingdom",
+        "county_name": "Central Bedfordshire",
+        "name": "Dunstable",
+        "info": "This town grew at the junction of two ancient roads, Watling Street and the Icknield Way. It was the site of a royal palace in the 12th century. Dunstable Priory, founded in 1132, was a significant religious center. The town received its market charter in 1131 from Henry I, becoming an important market town."
+    },
+    {
+        "id": 172,
+        "latitude": 51.336,
+        "longitude": 1.416,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Ramsgate",
+        "info": "During the medieval period, this area was a small fishing hamlet known as 'Remmesgate' or 'Ramisgate', meaning 'Raven's cliff gap'. It was part of the parish of St Lawrence. The area gained importance in the 15th century when it was incorporated into the Cinque Ports confederation as a 'limb' of Sandwich."
+    },
+    {
+        "id": 173,
+        "latitude": 51.393,
+        "longitude": 0.478,
+        "country": "United Kingdom",
+        "county_name": "Medway",
+        "name": "Strood",
+        "info": "This town's name, meaning 'marshy land overgrown with brushwood', was first recorded in 764 AD. During the medieval period, it was known for its important river crossing. Newark Hospital, founded in 1193, was a significant local institution. The town was owned by the Knights Templar in the 13th century."
+    },
+    {
+        "id": 174,
+        "latitude": 53.5533,
+        "longitude": -0.0215,
+        "country": "United Kingdom",
+        "county_name": "North East Lincolnshire",
+        "name": "Cleethorpes",
+        "info": "During the medieval period, this area was part of the soke of Clee. The name 'Cleethorpes' means 'outlying farmstead near Clee'. It was a small farming and fishing community. The area was under the jurisdiction of Thornton Abbey, founded in the 12th century, which owned much of the surrounding land."
+    },
+    {
+        "id": 175,
+        "latitude": 51.5932,
+        "longitude": -0.3894,
+        "country": "United Kingdom",
+        "county_name": "Harrow",
+        "name": "Pinner",
+        "info": "This area's name, meaning 'slope', was first recorded in 1231 as 'Pinnora'. During the medieval period, it was a small rural hamlet within the parish of Harrow on the Hill. St John the Baptist Church, the oldest parts of which date from the 14th century, was the center of the community."
+    },
+    {
+        "id": 176,
+        "latitude": 52.606,
+        "longitude": 1.729,
+        "country": "United Kingdom",
+        "county_name": "Norfolk",
+        "name": "Great Yarmouth",
+        "info": "This town grew as a herring fishing port in the medieval period. It was granted a charter by King John in 1208. The town was enclosed by walls in the 14th century, of which substantial sections still remain. St Nicholas Church, founded in 1101, was the largest parish church in England until it became a cathedral in 1961."
+    },
+    {
+        "id": 177,
+        "latitude": 52.9711,
+        "longitude": -1.3092,
+        "country": "United Kingdom",
+        "county_name": "Derbyshire",
+        "name": "Ilkeston",
+        "info": "This town's name, meaning 'farmstead of Elch', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Tilchestune'. During the medieval period, it was a small market town. The parish church of St Mary, parts of which date from the 13th century, was a focal point of the community."
+    },
+    {
+        "id": 178,
+        "latitude": 53.653,
+        "longitude": -2.632,
+        "country": "United Kingdom",
+        "county_name": "Lancashire",
+        "name": "Chorley",
+        "info": "This town's name, possibly meaning 'peasants' clearing', suggests early agricultural origins. It was first recorded in the 13th century. During the medieval period, it was a small market town. The area was part of the Barony of Manchester. The parish church of St Laurence, dating from the 15th century, was a key feature of the medieval town."
+    },
+    {
+        "id": 179,
+        "latitude": 51.37,
+        "longitude": 1.13,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Herne Bay",
+        "info": "During the medieval period, this area was part of the parish of Herne. The name 'Herne' is thought to derive from the Old English 'hyrne', meaning 'corner of land'. It was a small fishing village, with the parish church of St Martin, parts of which date from the 13th century, as its focal point."
+    },
+    {
+        "id": 180,
+        "latitude": 51.872,
+        "longitude": 0.1725,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Bishops Stortford",
+        "info": "This town's name refers to its ownership by the Bishop of London, recorded from 1060. It was listed in the Domesday Book as 'Esterteferd'. The town grew around Waytemore Castle, built in the 11th century. During the medieval period, it was an important market town on the route between London and Cambridge."
+    },
+    
+    {
+        "id": 181,
+        "latitude": 53.005,
+        "longitude": -1.127,
+        "country": "United Kingdom",
+        "county_name": "Nottinghamshire",
+        "name": "Arnold",
+        "info": "During the medieval period, this area was part of Sherwood Forest, a royal hunting ground. The name, meaning 'eagle's nook', suggests it was once a wooded area. It was first recorded in the Domesday Book of 1086 as 'Ernehale'. The area remained largely rural, with scattered settlements, until industrialization in later centuries."
+    },
+    {
+        "id": 182,
+        "latitude": 52.724,
+        "longitude": -1.369,
+        "country": "United Kingdom",
+        "county_name": "Leicestershire",
+        "name": "Coalville",
+        "info": "In medieval times, this area was part of the Charnwood Forest. It was sparsely populated woodland and heath, used for grazing and small-scale charcoal production. The nearest significant settlement was the market town of Ashby-de-la-Zouch, about 5 miles away, which had a castle dating from the 12th century."
+    },
+    {
+        "id": 183,
+        "latitude": 51.994,
+        "longitude": -0.732,
+        "country": "United Kingdom",
+        "county_name": "Milton Keynes",
+        "name": "Bletchley",
+        "info": "This area's name, meaning 'Blæcca's clearing', suggests Anglo-Saxon origins. It was recorded in the Domesday Book of 1086 as 'Blechelai'. During the medieval period, it was a small rural village. The parish church of St Mary, parts of which date from the 13th century, was the focal point of the community."
+    },
+    {
+        "id": 184,
+        "latitude": 51.9165,
+        "longitude": -0.6617,
+        "country": "United Kingdom",
+        "county_name": "Central Bedfordshire",
+        "name": "Leighton Buzzard",
+        "info": "This town's name combines 'Leighton', meaning 'farm or settlement in a clearing', with 'Buzzard', added later from the name of a local landowner. It was recorded in the Domesday Book as 'Lestone'. The town received a market charter in 1086 and became known for its lace-making industry during the medieval period."
+    },
+    {
+        "id": 185,
+        "latitude": 55.86,
+        "longitude": -3.98,
+        "country": "United Kingdom",
+        "county_name": "North Lanarkshire",
+        "name": "Airdrie",
+        "info": "This area's name is thought to come from the Gaelic 'Ard Ruith', meaning 'high slope'. During the medieval period, it was part of the Barony of Monkland, owned by the monks of Newbattle Abbey. The area was primarily used for sheep farming and small-scale coal mining in the later medieval period."
+    },
+    {
+        "id": 186,
+        "latitude": 55.126,
+        "longitude": -1.514,
+        "country": "United Kingdom",
+        "county_name": "Northumberland",
+        "name": "Blyth",
+        "info": "This coastal settlement's name comes from the Old English word for 'gentle' or 'merry', possibly referring to the river. During the medieval period, it was a small fishing village. The area was part of the Lordship of Newsham and Seaton Delaval, with the nearby Seaton Delaval Hall (though the current building is later) being a significant landmark."
+    },
+    {
+        "id": 187,
+        "latitude": 51.574,
+        "longitude": 0.4181,
+        "country": "United Kingdom",
+        "county_name": "Essex",
+        "name": "Laindon",
+        "info": "This area's name, meaning 'hill with a leah or clearing', suggests Anglo-Saxon origins. It was recorded in the Domesday Book of 1086 as 'Legneduna'. During the medieval period, it was a small rural settlement. The parish church of St Nicholas, parts of which date from the 13th century, was the center of the community."
+    },
+    {
+        "id": 188,
+        "latitude": 51.684,
+        "longitude": -4.163,
+        "country": "United Kingdom",
+        "county_name": "Carmarthenshire",
+        "name": "Llanelli",
+        "info": "This town's name means 'Church of St Elli'. During the medieval period, it was a small settlement centered around its parish church. The area was part of the commote of Cydweli in the cantref of Eginog, within the medieval Welsh kingdom of Deheubarth. The nearby Kidwelly Castle, founded in 1106, was a significant local landmark."
+    },
+    {
+        "id": 189,
+        "latitude": 52.927,
+        "longitude": -1.215,
+        "country": "United Kingdom",
+        "county_name": "Nottinghamshire",
+        "name": "Beeston",
+        "info": "This area's name, meaning 'overgrown with bents and grass', was first recorded in the Domesday Book as 'Bestune'. During the medieval period, it was a small agricultural village. The manor was held by various noble families, including the de Cantelupes in the 13th century. The parish church of St John the Baptist dates from the 14th century."
+    },
+    {
+        "id": 190,
+        "latitude": 52.4629,
+        "longitude": -1.8542,
+        "country": "United Kingdom",
+        "county_name": "Birmingham",
+        "name": "Small Heath",
+        "info": "During the medieval period, this area was part of the manor of Yardley, a large parish mentioned in the Domesday Book. It was largely rural, consisting of common land used for grazing. The name 'Small Heath' refers to a small area of uncultivated land. The area remained primarily agricultural until the Industrial Revolution."
+    },
+    {
+        "id": 191,
+        "latitude": 55.0456,
+        "longitude": -1.4443,
+        "country": "United Kingdom",
+        "county_name": "North Tyneside",
+        "name": "Whitley Bay",
+        "info": "This coastal area was known as 'Whitley' in medieval times, meaning 'white clearing'. It was part of the larger parish of Tynemouth. During this period, it was a small fishing village. The nearby Tynemouth Priory, founded in the 7th century and rebuilt in the 11th, was a dominant feature of the area."
+    },
+    {
+        "id": 192,
+        "latitude": 53.4554,
+        "longitude": -2.1122,
+        "country": "United Kingdom",
+        "county_name": "Tameside",
+        "name": "Denton",
+        "info": "This area's name, meaning 'farmstead in a valley', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Dentun'. During the medieval period, it was a small agricultural settlement. The area was part of the Barony of Manchester. St Lawrence's Church, though rebuilt in later centuries, has origins dating back to the 15th century."
+    },
+    {
+        "id": 193,
+        "latitude": 52.932,
+        "longitude": -1.127,
+        "country": "United Kingdom",
+        "county_name": "Nottinghamshire",
+        "name": "West Bridgford",
+        "info": "This area's name means 'western bridge ford'. During the medieval period, it was a small village near the River Trent. It was mentioned in the Domesday Book as 'Brigeforde'. The manor was held by various noble families, including the Lutterels in the 13th century. St Giles' Church, parts of which date from the 14th century, was the center of the community."
+    },
+    {
+        "id": 194,
+        "latitude": 51.6578,
+        "longitude": -0.2722,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Borehamwood",
+        "info": "This area's name means 'wood belonging to Bora'. During the medieval period, it was part of the manor of Elstree. The area was largely wooded, forming part of the ancient woodland that once covered much of southern England. The nearby village of Elstree, mentioned in the Domesday Book, was more significant at this time."
+    },
+    {
+        "id": 195,
+        "latitude": 56.0011,
+        "longitude": -3.7835,
+        "country": "United Kingdom",
+        "county_name": "Falkirk",
+        "name": "Falkirk",
+        "info": "This town's name means 'speckled church' in Scots. During the medieval period, it was an important market town. The area was the site of a significant battle in 1298 during the Wars of Scottish Independence. The nearby Callendar House, though much altered, has foundations dating back to the 11th century."
+    },
+    
+    {
+        "id": 196,
+        "latitude": 53.5239,
+        "longitude": -2.3991,
+        "country": "United Kingdom",
+        "county_name": "Salford",
+        "name": "Walkden",
+        "info": "During the medieval period, this area was part of the manor of Worsley. The name, meaning 'valley of the wealas (Welsh/Celtic speakers)', suggests it was a pocket of native Britons amidst Anglo-Saxon settlements. It was primarily woodland and moorland, used for hunting and small-scale farming. The nearby Wardley Hall, though much altered, has medieval origins."
+    },
+    {
+        "id": 197,
+        "latitude": 51.5878,
+        "longitude": -0.3086,
+        "country": "United Kingdom",
+        "county_name": "Brent",
+        "name": "Kenton",
+        "info": "This area's name, meaning 'settlement of the rulers', suggests it was an important place in Anglo-Saxon times. During the medieval period, it was a small rural hamlet within the parish of Harrow. The land was owned by the Archbishop of Canterbury. The area remained largely agricultural until the 20th century."
+    },
+    {
+        "id": 198,
+        "latitude": 54.0819,
+        "longitude": -0.1923,
+        "country": "United Kingdom",
+        "county_name": "East Riding of Yorkshire",
+        "name": "Bridlington",
+        "info": "This coastal town was an important settlement in medieval times. Its priory, founded in 1113, was a significant religious center. The town was granted a market charter in 1200, becoming a busy port and market town. It was known for its annual fair, which attracted merchants from across Europe."
+    },
+    {
+        "id": 199,
+        "latitude": 54.61,
+        "longitude": -1.27,
+        "country": "United Kingdom",
+        "county_name": "Stockton-on-Tees",
+        "name": "Billingham",
+        "info": "This area's name, meaning 'homestead of Billa's people', has Anglo-Saxon origins. It was recorded in the Boldon Book of 1183, a survey of the Bishop of Durham's estates. The parish church of St Cuthbert, parts of which date from the 12th century, was the center of the medieval community. The area was known for its salt industry in medieval times."
+    },
+    {
+        "id": 200,
+        "latitude": 52.918,
+        "longitude": -0.638,
+        "country": "United Kingdom",
+        "county_name": "Lincolnshire",
+        "name": "Grantham",
+        "info": "This town was an important market center in medieval times. It was mentioned in the Domesday Book of 1086. The parish church of St Wulfram, with its striking spire, dates from the 13th century. The town received its royal charter in 1463. A notable grammar school, which still exists today, was founded here in 1328."
+    },
+    {
+        "id": 201,
+        "latitude": 55.0097,
+        "longitude": -1.4448,
+        "country": "United Kingdom",
+        "county_name": "North Tyneside",
+        "name": "North Shields",
+        "info": "This town grew around a fishing port established by the Prior of Tynemouth in 1225. The name 'Shields' comes from the Middle English 'schele', meaning 'temporary hut', referring to the fishermen's huts that originally stood here. The town was repeatedly destroyed by Scottish raids in the 14th century but always rebuilt due to its strategic importance."
+    },
+    {
+        "id": 202,
+        "latitude": 51.947,
+        "longitude": -0.283,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Hitchin",
+        "info": "This town's name, meaning 'people of the river Hitch', suggests early settlement. It was recorded in the Domesday Book as 'Hiz'. During the medieval period, it was an important market town, receiving its charter in 1260. The parish church of St Mary's, parts of which date from the 14th century, was a significant landmark."
+    },
+    {
+        "id": 203,
+        "latitude": 52.7858,
+        "longitude": -0.1529,
+        "country": "United Kingdom",
+        "county_name": "Lincolnshire",
+        "name": "Spalding",
+        "info": "This town's name, meaning 'settlement of the tribe of Spalda', has Anglo-Saxon origins. It grew around Spalding Priory, founded in 1051. The town was an important center of the medieval wool trade, benefiting from its location on navigable rivers. It received its market charter in 1242."
+    },
+    {
+        "id": 204,
+        "latitude": 51.36,
+        "longitude": 0.61,
+        "country": "United Kingdom",
+        "county_name": "Medway",
+        "name": "Rainham",
+        "info": "This area's name, meaning 'homestead of the Regin people', suggests Anglo-Saxon origins. It was recorded in the Domesday Book as 'Ragingeham'. During the medieval period, it was a small agricultural village. The parish church of St Margaret, parts of which date from the 13th century, was the center of the community."
+    },
+    {
+        "id": 205,
+        "latitude": 51.978,
+        "longitude": -0.23,
+        "country": "United Kingdom",
+        "county_name": "Hertfordshire",
+        "name": "Letchworth",
+        "info": "This area's name, meaning 'enclosure in the lece (boggy stream)', suggests Anglo-Saxon origins. During the medieval period, it was a small rural village. It was mentioned in the Domesday Book of 1086. The parish church of St Mary, though rebuilt in the 19th century, has 14th-century origins."
+    },
+    {
+        "id": 206,
+        "latitude": 51.6114,
+        "longitude": 0.5207,
+        "country": "United Kingdom",
+        "county_name": "Essex",
+        "name": "Wickford",
+        "info": "This area's name, meaning 'ford by a dairy farm', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Wicfort'. During the medieval period, it was a small rural settlement. The area was part of the ancient parish of Downham. The nearby River Crouch was important for local trade and transportation."
+    },
+    {
+        "id": 207,
+        "latitude": 53.4111,
+        "longitude": -2.8403,
+        "country": "United Kingdom",
+        "county_name": "Knowsley",
+        "name": "Huyton",
+        "info": "This area's name, possibly meaning 'high town', suggests Anglo-Saxon origins. It was recorded in the Domesday Book as 'Hitune'. During the medieval period, it was a small agricultural settlement. The parish church of St Michael, though rebuilt in later centuries, has origins dating back to the 12th century."
+    },
+    {
+        "id": 208,
+        "latitude": 51.6717,
+        "longitude": -1.2783,
+        "country": "United Kingdom",
+        "county_name": "Oxfordshire",
+        "name": "Abingdon",
+        "info": "This town claims to be the oldest continuously occupied settlement in England. Its abbey, founded in the 7th century, was a powerful and wealthy institution throughout the medieval period. The town received its royal charter in 1556. The medieval abbey gateway and the Long Alley Almshouses, built in 1446, are significant surviving structures."
+    },
+    {
+        "id": 209,
+        "latitude": 51.32,
+        "longitude": -2.208,
+        "country": "United Kingdom",
+        "county_name": "Wiltshire",
+        "name": "Trowbridge",
+        "info": "This town's name, possibly meaning 'tree-bridge', was first recorded in the Domesday Book as 'Straburg'. During the medieval period, it grew as a center for the wool trade. Trowbridge Castle, built in the 12th century, was a significant local landmark. The town received its market charter in 1200."
+    },
+    {
+        "id": 210,
+        "latitude": 52.5812,
+        "longitude": -1.093,
+        "country": "United Kingdom",
+        "county_name": "Leicestershire",
+        "name": "Wigston Magna",
+        "info": "This area's name, meaning 'Wicga's settlement', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Wichingestone'. During the medieval period, it was an agricultural village. The parish church of All Saints, parts of which date from the 13th century, was the center of the community."
+    },
+    
+    {
+        "id": 211,
+        "latitude": 51.606,
+        "longitude": -1.241,
+        "country": "United Kingdom",
+        "county_name": "Oxfordshire",
+        "name": "Didcot",
+        "info": "During the medieval period, this area was a small rural settlement. Its name, possibly meaning 'Dudda's cottage', suggests Anglo-Saxon origins. It was recorded in the Domesday Book of 1086 as 'Dudcote'. The settlement was part of the manor of Blewbury, owned by the Bishop of Winchester. The area remained primarily agricultural until the 19th century."
+    },
+    {
+        "id": 212,
+        "latitude": 51.433,
+        "longitude": -0.933,
+        "country": "United Kingdom",
+        "county_name": "Wokingham",
+        "name": "Earley",
+        "info": "This area's name, meaning 'clearing with eagles', has Anglo-Saxon origins. During the medieval period, it was a small farming community within the royal hunting forest of Windsor. The nearby settlement of Sonning, mentioned in the Domesday Book, was more significant at this time, being a summer palace of the Bishop of Salisbury."
+    },
+    {
+        "id": 213,
+        "latitude": 51.459,
+        "longitude": 0.138,
+        "country": "United Kingdom",
+        "county_name": "Bexley",
+        "name": "Bexleyheath",
+        "info": "During the medieval period, this area was part of the parish of Bexley, whose name means 'woodland clearing where box trees grow'. It was largely heath and woodland, used for grazing and fuel. The manor of Bexley was owned by the Archbishop of Canterbury from the 8th century. The area remained rural until suburban development in the 19th century."
+    },
+    {
+        "id": 214,
+        "latitude": 53.4429,
+        "longitude": -1.4698,
+        "country": "United Kingdom",
+        "county_name": "Sheffield",
+        "name": "Ecclesfield",
+        "info": "This area's name, meaning 'open land near a church', suggests early Christian influence. It was recorded in the Domesday Book as 'Eclesfeld'. During the medieval period, it was known for iron smelting and cutlery making. The parish church of St Mary, parts of which date from the 12th century, was a significant local landmark."
+    },
+    {
+        "id": 215,
+        "latitude": 53.698,
+        "longitude": -2.461,
+        "country": "United Kingdom",
+        "county_name": "Blackburn with Darwen",
+        "name": "Darwen",
+        "info": "This town's name, derived from the River Darwen, means 'oak river' in Brythonic. During the medieval period, it was a small farming community. The area was part of the ancient parish of Blackburn. Hoddlesden Hall, though rebuilt in later centuries, has medieval origins and was an important local manor house."
+    },
+    {
+        "id": 216,
+        "latitude": 53.5333,
+        "longitude": -2.2833,
+        "country": "United Kingdom",
+        "county_name": "Bury",
+        "name": "Prestwich",
+        "info": "This area's name, meaning 'priest's dwelling', suggests early ecclesiastical connections. It was recorded in the Domesday Book as 'Prestwich'. During the medieval period, it was a small agricultural settlement. The parish church of St Mary, parts of which date from the 15th century, was the center of the community."
+    },
+    {
+        "id": 217,
+        "latitude": 51.602,
+        "longitude": -3.342,
+        "country": "United Kingdom",
+        "county_name": "Rhondda Cynon Taff",
+        "name": "Pontypridd",
+        "info": "During the medieval period, this area was largely rural, part of the Welsh commote of Glynrhondda. The name, meaning 'bridge by the earthen house', refers to a structure that didn't exist until the 18th century. The nearby Llantwit Fardre Church, with 13th-century origins, was a significant local landmark in medieval times."
+    },
+    {
+        "id": 218,
+        "latitude": 55.828,
+        "longitude": -4.214,
+        "country": "United Kingdom",
+        "county_name": "Glasgow City",
+        "name": "Rutherglen",
+        "info": "This town's name possibly means 'Rydderch's land' in Cumbric. It was granted royal burgh status in 1126 by King David I of Scotland, making it one of the oldest royal burghs in Scotland. During the medieval period, it was an important center for trade and local government. The Old Parish Church, though rebuilt, has 13th-century origins."
+    },
+    {
+        "id": 219,
+        "latitude": 51.1295,
+        "longitude": 1.3089,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Dover",
+        "info": "This port town has been strategically important since Roman times. Its castle, one of the largest in England, was built in the 11th century and played a crucial role in medieval defenses. The town was one of the Cinque Ports, a confederation formed for military and trade purposes. It was also an important pilgrimage site due to its priory."
+    },
+    {
+        "id": 220,
+        "latitude": 50.8365,
+        "longitude": -0.7792,
+        "country": "United Kingdom",
+        "county_name": "West Sussex",
+        "name": "Chichester",
+        "info": "This city has Roman origins but flourished in medieval times. Its cathedral, begun in 1075, was a significant pilgrimage site. The city walls, originally Roman, were maintained throughout the medieval period. It was an important market town, receiving its first charter in 1135. The distinctive medieval street plan with its central market cross remains visible today."
+    },
+    {
+        "id": 221,
+        "latitude": 51.2226,
+        "longitude": 1.4006,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Deal",
+        "info": "This coastal town's name possibly means 'valley' in Old English. During the medieval period, it was a small fishing village and limb of the Cinque Ports. The nearby Sandown Castle, built in the 16th century, had medieval predecessors. The town grew in importance due to its proximity to the Goodwin Sands, a dangerous area for shipping."
+    },
+    {
+        "id": 222,
+        "latitude": 51.9,
+        "longitude": -1.15,
+        "country": "United Kingdom",
+        "county_name": "Oxfordshire",
+        "name": "Bicester",
+        "info": "This town's name, meaning 'fort of Beorna', suggests Anglo-Saxon origins. It was recorded in the Domesday Book as 'Berncestre'. The town grew around Bicester Priory, founded in 1182. During the medieval period, it was known for its markets and fairs, with a market charter granted in 1239. The parish church of St Edburg dates from the 13th century."
+    },
+    {
+        "id": 223,
+        "latitude": 51.5467,
+        "longitude": -0.37,
+        "country": "United Kingdom",
+        "county_name": "Ealing",
+        "name": "Northolt",
+        "info": "This area's name, meaning 'northern wood', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Northala'. During the medieval period, it was a small agricultural settlement. The manor was owned by Westminster Abbey from the 8th to the 16th century. St Mary's Church, though largely rebuilt, has 13th-century origins."
+    },
+    {
+        "id": 224,
+        "latitude": 55.7742,
+        "longitude": -3.9183,
+        "country": "United Kingdom",
+        "county_name": "North Lanarkshire",
+        "name": "Wishaw",
+        "info": "During the medieval period, this area was largely rural, part of the Barony of Motherwell. The name, possibly meaning 'willow wood', suggests a wooded landscape. The nearby Cambusnethan Priory, founded in the 12th century, was a significant religious center. The area remained primarily agricultural until the Industrial Revolution."
+    },
+    {
+        "id": 225,
+        "latitude": 51.3652,
+        "longitude": -0.1676,
+        "country": "United Kingdom",
+        "county_name": "Sutton",
+        "name": "Carshalton",
+        "info": "This area's name, meaning 'farm by the cress spring', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Aultone'. During the medieval period, it was known for its springs and watercress beds. The parish church of All Saints, parts of which date from the 12th century, was the center of the community."
+    },
+    
+    {
+        "id": 226,
+        "latitude": 53.001,
+        "longitude": -1.197,
+        "country": "United Kingdom",
+        "county_name": "Nottingham",
+        "name": "Bulwell",
+        "info": "This area's name, meaning 'bull spring' or 'spring of bubbling water', suggests Anglo-Saxon origins. During the medieval period, it was a small village within the ancient Sherwood Forest. The area was known for its sandstone quarries, which provided building material for many local structures. St Mary's Church, though rebuilt in the 19th century, has medieval origins."
+    },
+    {
+        "id": 227,
+        "latitude": 54.591,
+        "longitude": -5.68,
+        "country": "United Kingdom",
+        "county_name": "Ards and North Down",
+        "name": "Newtownards",
+        "info": "This town grew around a Dominican friary founded in 1244 by Walter de Burgh, Earl of Ulster. The name means 'new town of Ards'. During the medieval period, it was an important religious center. The nearby Scrabo Tower, though built much later, stands on the site of an ancient dún or fort that would have been significant in medieval times."
+    },
+    {
+        "id": 228,
+        "latitude": 54.326,
+        "longitude": -2.745,
+        "country": "United Kingdom",
+        "county_name": "Cumbria",
+        "name": "Kendal",
+        "info": "This town's name, meaning 'valley of the River Kent', has Norse origins. It was recorded in the Domesday Book as 'Cherchebi'. During the medieval period, it was an important market town and a center for wool trade. Kendal Castle, built in the 12th century, was a significant local landmark. The town received its charter in 1189."
+    },
+    {
+        "id": 229,
+        "latitude": 55.082,
+        "longitude": -1.585,
+        "country": "United Kingdom",
+        "county_name": "Northumberland",
+        "name": "Cramlington",
+        "info": "During the medieval period, this area was part of the Barony of Merlay. The name possibly means 'farmstead of Cramel's people'. It was primarily agricultural land with scattered farms. The nearby Plessey Woods were part of a larger forest that covered much of southeast Northumberland in medieval times."
+    },
+    {
+        "id": 230,
+        "latitude": 52.3353,
+        "longitude": -2.0579,
+        "country": "United Kingdom",
+        "county_name": "Worcestershire",
+        "name": "Bromsgrove",
+        "info": "This town's name, meaning 'Bremesgraf' or Breme's Grove', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Bremesgrave'. During the medieval period, it was a market town known for its nail-making industry. The parish church of St John the Baptist, parts of which date from the 12th century, was a focal point of the community."
+    },
+    {
+        "id": 231,
+        "latitude": 51.703,
+        "longitude": -3.041,
+        "country": "United Kingdom",
+        "county_name": "Torfaen",
+        "name": "Pont-y-pŵl",
+        "info": "This area's name, meaning 'bridge by the pool', refers to a structure that didn't exist until the 17th century. During the medieval period, it was part of the Welsh kingdom of Gwent. The nearby Pontypool Park was a medieval deer park. The area was known for its iron ore deposits, which were exploited on a small scale during this time."
+    },
+    {
+        "id": 232,
+        "latitude": 51.509,
+        "longitude": -0.338,
+        "country": "United Kingdom",
+        "county_name": "Ealing",
+        "name": "Hanwell",
+        "info": "This area's name, meaning 'spring or stream frequented by cocks', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Hanewelle'. During the medieval period, it was a small agricultural village. St Mary's Church, though rebuilt in the 19th century, has 12th-century origins. The area was known for its orchards and market gardens."
+    },
+    {
+        "id": 233,
+        "latitude": 51.2279,
+        "longitude": -2.3215,
+        "country": "United Kingdom",
+        "county_name": "Somerset",
+        "name": "Frome",
+        "info": "This town's name, derived from the Celtic word 'ffraw' meaning brisk or fair, refers to the river it sits on. It was an important center in Anglo-Saxon times, with a minster church founded in 685 AD. During the medieval period, it was a significant wool town. St John the Baptist Church, largely rebuilt in the 15th century, was a key landmark."
+    },
+    {
+        "id": 234,
+        "latitude": 51.5981,
+        "longitude": -0.1149,
+        "country": "United Kingdom",
+        "county_name": "Haringey",
+        "name": "Wood Green",
+        "info": "During the medieval period, this area was part of the larger parish of Tottenham. It was largely woodland and fields, hence its modern name. The area was part of the Bishop of London's hunting park. The nearby Tottenham manor house, though rebuilt in Tudor times, had medieval origins."
+    },
+    {
+        "id": 235,
+        "latitude": 52.5708,
+        "longitude": -2.0457,
+        "country": "United Kingdom",
+        "county_name": "Walsall",
+        "name": "Darlaston",
+        "info": "This town's name, meaning 'Deorlaf's settlement', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Dordlavestone'. During the medieval period, it was a small agricultural village. The area was part of the ancient parish of Wednesbury. St Lawrence's Church, though rebuilt in the 19th century, has medieval origins."
+    },
+    {
+        "id": 236,
+        "latitude": 55.181,
+        "longitude": -1.568,
+        "country": "United Kingdom",
+        "county_name": "Northumberland",
+        "name": "Ashington",
+        "info": "During the medieval period, this area was part of the Barony of Bothal. The name, meaning 'settlement of Aescea's people', suggests Anglo-Saxon origins. It was primarily agricultural land with scattered farms. The nearby Woodhorn Church, with parts dating from the 11th century, was a significant local landmark."
+    },
+    {
+        "id": 237,
+        "latitude": 52.9877,
+        "longitude": -2.1327,
+        "country": "United Kingdom",
+        "county_name": "Stoke-on-Trent",
+        "name": "Longton",
+        "info": "This area's name, meaning 'long town', refers to its linear settlement pattern. During the medieval period, it was a small rural community within the ancient parish of Stoke. The region was known for its coal deposits, which were exploited on a small scale. The nearby Trentham Priory, founded in the 11th century, was a significant religious center."
+    },
+    {
+        "id": 238,
+        "latitude": 52.7661,
+        "longitude": -0.886,
+        "country": "United Kingdom",
+        "county_name": "Leicestershire",
+        "name": "Melton Mowbray",
+        "info": "This town's name, meaning 'farmstead or village on fertile land', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Medeltone'. During the medieval period, it was an important market town, receiving its charter in 1324. The town was known for its livestock markets and became famous for its pork pies in the 18th century."
+    },
+    {
+        "id": 239,
+        "latitude": 52.606,
+        "longitude": -1.9179,
+        "country": "United Kingdom",
+        "county_name": "Walsall",
+        "name": "Aldridge",
+        "info": "This area's name, possibly meaning 'Alder Ridge', suggests Anglo-Saxon origins. It was recorded in the Domesday Book as 'Alrewic'. During the medieval period, it was a small agricultural village. St Mary's Church, though largely rebuilt in the 19th century, has 12th-century origins. The area was known for its extensive woodlands."
+    },
+    {
+        "id": 240,
+        "latitude": 53.5452,
+        "longitude": -2.3999,
+        "country": "United Kingdom",
+        "county_name": "Bolton",
+        "name": "Farnworth",
+        "info": "This town's name, meaning 'fern enclosure', has Anglo-Saxon origins. During the medieval period, it was a small farming community within the larger parish of Deane. The area was part of the Barony of Manchester. St John the Evangelist Church, though rebuilt in the 19th century, has medieval origins dating back to 1180."
+    },
+    
+    {
+        "id": 241,
+        "latitude": 51.552,
+        "longitude": -0.097,
+        "country": "United Kingdom",
+        "county_name": "Islington",
+        "name": "Highbury",
+        "info": "During the medieval period, this area was known as 'Neutone' (new town). It was part of the larger manor of Tollington, owned by the Knights Hospitaller from the 13th century. The area was primarily farmland and woods. A moated manor house, which later became known as Highbury Manor, was built here in the 14th century."
+    },
+    {
+        "id": 242,
+        "latitude": 53.3761,
+        "longitude": -2.1897,
+        "country": "United Kingdom",
+        "county_name": "Stockport",
+        "name": "Cheadle Hulme",
+        "info": "This area's name combines 'Cheadle', meaning 'clearing in a wood', with 'Hulme', meaning 'water meadow'. During the medieval period, it was part of the manor of Cheadle. The area was largely rural, with scattered farms and cottages. St Mary's Church in nearby Cheadle, parts of which date from the 12th century, was a significant local landmark."
+    },
+    {
+        "id": 243,
+        "latitude": 54.62,
+        "longitude": -1.58,
+        "country": "United Kingdom",
+        "county_name": "Durham",
+        "name": "Newton Aycliffe",
+        "info": "During the medieval period, this area was part of the larger parish of Aycliffe. The name 'Aycliffe' means 'oak cliff' in Old English. It was primarily agricultural land with scattered farms. The nearby St Andrew's Church in Aycliffe Village has Saxon origins and was an important religious center in the area."
+    },
+    {
+        "id": 244,
+        "latitude": 52.4299,
+        "longitude": -1.9355,
+        "country": "United Kingdom",
+        "county_name": "Birmingham",
+        "name": "Bournville",
+        "info": "In medieval times, this area was part of the manor of Northfield, mentioned in the Domesday Book as 'Nordfeld'. It was largely rural, with scattered farms and woodlands. The nearby Weoley Castle, a fortified manor house built in the 13th century, was a significant local landmark. The area remained agricultural until its development in the late 19th century."
+    },
+    {
+        "id": 245,
+        "latitude": 52.009,
+        "longitude": -0.789,
+        "country": "United Kingdom",
+        "county_name": "Milton Keynes",
+        "name": "Shenley Brook End",
+        "info": "During the medieval period, this area was part of the larger parish of Shenley. The name 'Shenley' means 'bright clearing' in Old English. It was primarily agricultural land with scattered farms. The nearby village of Shenley Church End, mentioned in the Domesday Book, was more significant at this time, with a church dating back to the 12th century."
+    },
+    {
+        "id": 246,
+        "latitude": 54.85,
+        "longitude": -1.83,
+        "country": "United Kingdom",
+        "county_name": "Durham",
+        "name": "Consett",
+        "info": "During the medieval period, this area was part of the larger parish of Lanchester. The name 'Consett' possibly derives from the Old English for 'hilltop settlement'. It was a rural area with scattered farms and extensive moorland. The nearby Lanchester Roman Fort, though from an earlier period, remained a notable landmark throughout the Middle Ages."
+    },
+    {
+        "id": 247,
+        "latitude": 51.3211,
+        "longitude": -0.1386,
+        "country": "United Kingdom",
+        "county_name": "Croydon",
+        "name": "Coulsdon",
+        "info": "This area's name, meaning 'Cūl's hill', has Anglo-Saxon origins. It was mentioned in the Domesday Book as 'Colesdone'. During the medieval period, it was a small rural village. The manor was held by the Bardolf family from the 13th to the 15th century. St John's Church, though rebuilt in the 19th century, has origins dating back to the 13th century."
+    },
+    {
+        "id": 248,
+        "latitude": 52.566,
+        "longitude": -2.0728,
+        "country": "United Kingdom",
+        "county_name": "Wolverhampton",
+        "name": "Bilston",
+        "info": "This town's name, possibly meaning 'Bil's stone', suggests Anglo-Saxon origins. During the medieval period, it was a small village within the parish of Wolverhampton. The area was known for its coal deposits, which were exploited on a small scale. St Leonard's Church, though largely rebuilt in later centuries, has origins dating back to the 12th century."
+    },
+    {
+        "id": 249,
+        "latitude": 52.7001,
+        "longitude": -2.5157,
+        "country": "United Kingdom",
+        "county_name": "Telford and Wrekin",
+        "name": "Wellington",
+        "info": "This town's name, meaning 'settlement by the temple', suggests early religious significance. It was recorded in the Domesday Book as 'Walintone'. During the medieval period, it was an important market town, receiving its charter in 1244. All Saints Church, parts of which date from the 13th century, was a significant local landmark."
+    },
+    {
+        "id": 250,
+        "latitude": 54.663,
+        "longitude": -1.676,
+        "country": "United Kingdom",
+        "county_name": "Durham",
+        "name": "Bishop Auckland",
+        "info": "This town grew around Auckland Castle, the residence of the Bishops of Durham since the 12th century. The name 'Auckland' possibly means 'oak-land'. During the medieval period, it was an important administrative center for the Bishop's estates. St Andrew's Church, largely rebuilt in the 13th century, was a significant local landmark."
+    },
+    {
+        "id": 251,
+        "latitude": 52.395,
+        "longitude": -1.979,
+        "country": "United Kingdom",
+        "county_name": "Birmingham",
+        "name": "Longbridge",
+        "info": "During the medieval period, this area was part of the manor of Northfield, mentioned in the Domesday Book. The name 'Longbridge' refers to a bridge over the River Rea, which was an important crossing point. The area was largely rural, with scattered farms and mills along the river. It remained primarily agricultural until industrialization in the late 19th century."
+    },
+    {
+        "id": 252,
+        "latitude": 52.614,
+        "longitude": -2.004,
+        "country": "United Kingdom",
+        "county_name": "Walsall",
+        "name": "Bloxwich",
+        "info": "This area's name, possibly meaning 'Bloc's village', suggests Anglo-Saxon origins. It was recorded in the Domesday Book as part of the manor of Wednesbury. During the medieval period, it was a small rural settlement. The area was known for its extensive woodlands, which were part of the ancient Forest of Cannock."
+    },
+    {
+        "id": 253,
+        "latitude": 51.5557,
+        "longitude": 0.2512,
+        "country": "United Kingdom",
+        "county_name": "Havering",
+        "name": "Upminster",
+        "info": "This area's name, meaning 'church on higher ground', has Anglo-Saxon origins. It was recorded in the Domesday Book as 'Upmynstre'. During the medieval period, it was a small rural village centered around St Laurence's Church, parts of which date from the 12th century. The area was known for its windmill, though the current structure is from a later period."
+    },
+    {
+        "id": 254,
+        "latitude": 53.321,
+        "longitude": -3.48,
+        "country": "United Kingdom",
+        "county_name": "Denbighshire",
+        "name": "Rhyl",
+        "info": "During the medieval period, this area was part of the Lordship of Denbigh, established after the English conquest of Wales in the 13th century. The name 'Rhyl' possibly derives from the Welsh 'Tŷ'n yr haul' meaning 'house in the sun'. It was a small fishing village, with the nearby Rhuddlan Castle, built in 1277, being a significant local landmark."
+    },
+    {
+        "id": 255,
+        "latitude": 52.267,
+        "longitude": -2.153,
+        "country": "United Kingdom",
+        "county_name": "Worcestershire",
+        "name": "Droitwich",
+        "info": "This town's importance dates back to Roman times due to its salt springs. Its name in Old English means 'dirty trading place', referring to the brine. During the medieval period, it was a significant salt-producing town. St Andrew's Church, parts of which date from the 12th century, was an important local landmark. The town received its charter in 1215."
+    },
+    
+    {
+        "id": 256,
+        "latitude": 53.5355,
+        "longitude": -2.5658,
+        "country": "United Kingdom",
+        "county_name": "Wigan",
+        "name": "Hindley",
+        "info": "This area's name, meaning 'woodland clearing belonging to Hynde', suggests Anglo-Saxon origins. During the medieval period, it was a small rural settlement within the larger parish of Wigan. The region was part of the Barony of Makerfield. The area was known for its extensive woodlands and small-scale coal mining activities."
+    },
+    {
+        "id": 257,
+        "latitude": 53.549,
+        "longitude": -2.529,
+        "country": "United Kingdom",
+        "county_name": "Bolton",
+        "name": "Westhoughton",
+        "info": "This town's name, meaning 'western hill settlement', has Anglo-Saxon origins. It was recorded in the Bolton Priory Coucher Book in 1253 as 'Halghton'. During the medieval period, it was a small farming community. The area was part of the Barony of Manchester. St Bartholomew's Church, though rebuilt in later centuries, has medieval origins."
+    },
+    {
+        "id": 258,
+        "latitude": 51.3589,
+        "longitude": 1.4394,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Broadstairs",
+        "info": "During the medieval period, this area was known as 'Bradstowe', meaning 'broad place'. It was a small fishing village, part of the parish of St Peter's. The area was known for its strategic location, with a shrine of the Virgin Mary called 'Our Lady of Bradstowe' being a landmark for sailors. The nearby St Peter's Church has origins dating back to the 12th century."
+    },
+    
+    {
+        "id": 259,
+        "latitude": 52.0406,
+        "longitude": -0.7594,
+        "country": "United Kingdom",
+        "county_name": "Buckinghamshire",
+        "name": "Milton Keynes",
+        "info": "While this area is known for its modern development, in medieval times it was home to several small villages. The most significant was the village that shares its name with the modern city, recorded in the Domesday Book as 'Middeltone'. Nearby, the Augustine priory of Bradwell was founded in the 12th century and became a local center of learning and worship."
+    },
+    {
+        "id": 260,
+        "latitude": 51.4816,
+        "longitude": -3.1791,
+        "country": "United Kingdom",
+        "county_name": "Cardiff",
+        "name": "Cardiff",
+        "info": "This settlement grew around a Roman fort, but its medieval history is dominated by its castle, first built in the 11th century. It became a significant port and was twice destroyed by Welsh princes in the 12th century. The town received its first charter in 1331. Its church of St John the Baptist, founded in 1180, was a focal point of medieval life."
+    },
+    {
+        "id": 261,
+        "latitude": 57.4778,
+        "longitude": -4.2247,
+        "country": "United Kingdom",
+        "county_name": "Highland",
+        "name": "Inverness",
+        "info": "This northern settlement, whose name means 'Mouth of the River Ness' in Gaelic, was an important center in medieval Scotland. Its strategic location made it a frequent target in conflicts. A castle was built here in the 11th century, though the current structure is much later. The town received its royal charter from King David I in the 12th century."
+    },
+    {
+        "id": 262,
+        "latitude": 53.7632,
+        "longitude": -2.7044,
+        "country": "United Kingdom",
+        "county_name": "Lancashire",
+        "name": "Preston",
+        "info": "This town's name, meaning 'priest's settlement', suggests early ecclesiastical connections. It was granted a Guild Merchant charter in 1179, allowing it to hold markets. The Parish Church of St John, largely rebuilt in later centuries, has origins dating back to Anglo-Saxon times. The town's strategic location on the River Ribble contributed to its growth."
+    },
+    {
+        "id": 263,
+        "latitude": 51.8979,
+        "longitude": -2.0782,
+        "country": "United Kingdom",
+        "county_name": "Gloucestershire",
+        "name": "Cheltenham",
+        "info": "While famous for its Regency architecture, this town has medieval origins. Its name, meaning 'village under the hill', was first recorded in 803 AD. The Parish Church of St Mary, the oldest building in the town, has parts dating from the 12th century. The settlement remained small throughout the medieval period, primarily known for its agricultural fair."
+    },
+    {
+        "id": 264,
+        "latitude": 51.6217,
+        "longitude": -3.9447,
+        "country": "United Kingdom",
+        "county_name": "Swansea",
+        "name": "Swansea",
+        "info": "This coastal settlement's name possibly derives from Old Norse, meaning 'Sweyn's island'. It grew around a castle built in the early 12th century. The town developed as a trade center and was granted borough status in the 13th century. It was attacked several times by Welsh princes during the medieval period due to its strategic importance."
+    },
+    {
+        "id": 265,
+        "latitude": 54.9783,
+        "longitude": -1.6178,
+        "country": "United Kingdom",
+        "county_name": "Newcastle upon Tyne",
+        "name": "Newcastle upon Tyne",
+        "info": "This settlement grew around a 'new castle' built in 1080 by Robert Curthose, son of William the Conqueror. It became an important defensive site against Scottish invasion. The town walls, built in the 13th and 14th centuries, were among the strongest in the kingdom. The Parish Church of St Nicholas, now a cathedral, dates from the 14th century."
+    },
+    {
+        "id": 266,
+        "latitude": 53.8008,
+        "longitude": -1.5491,
+        "country": "United Kingdom",
+        "county_name": "Leeds",
+        "name": "Leeds",
+        "info": "This settlement's name possibly means 'woodland clearing', suggesting its surroundings in medieval times. It was recorded in the Domesday Book as 'Ledes'. The Manor of Leeds was important, being owned by the de Lacy family. The Parish Church of St Peter, largely rebuilt later, has origins in the Anglo-Saxon period. The town grew as a small market center for the surrounding agricultural area."
+    },
+    {
+        "id": 267,
+        "latitude": 52.6293,
+        "longitude": -1.1322,
+        "country": "United Kingdom",
+        "county_name": "Leicester",
+        "name": "Leicester",
+        "info": "This settlement has Roman origins but flourished in medieval times. It was one of the Five Boroughs of the Danelaw. Its castle, built soon after the Norman Conquest, played a significant role in the civil war known as the Anarchy. The town was a center of the wool trade, and its market, granted by the Earl of Leicester in 1154, was a focal point of medieval life."
+    },
+    {
+        "id": 268,
+        "latitude": 53.3811,
+        "longitude": -1.4701,
+        "country": "United Kingdom",
+        "county_name": "Sheffield",
+        "name": "Sheffield",
+        "info": "This town grew around its castle, built in the 13th century and now largely destroyed. Its name, meaning 'field by the River Sheaf', was first recorded in the Domesday Book. The town was known for cutlery production as early as the 14th century. The Parish Church of St Peter and St Paul, now the cathedral, has origins dating back to the 12th century."
+    },
+    {
+        "id": 269,
+        "latitude": 51.0577,
+        "longitude": -1.3108,
+        "country": "United Kingdom",
+        "county_name": "Hampshire",
+        "name": "Winchester",
+        "info": "This city was the capital of Anglo-Saxon England and remained important throughout the medieval period. Its cathedral, one of the largest in Europe, was begun in the 11th century. The city was a significant center of the wool trade. Its Great Hall, built in the 13th century, is one of the finest surviving examples of a medieval hall with an original timber roof."
+    },
+    {
+        "id": 270,
+        "latitude": 52.4068,
+        "longitude": -1.5197,
+        "country": "United Kingdom",
+        "county_name": "West Midlands",
+        "name": "Coventry",
+        "info": "This city grew around a Benedictine monastery founded in the 11th century. It became an important center of the cloth trade in medieval England. The city walls, built in the 14th century, were among the finest in the country. St Mary's Guildhall, built in the 14th century, is one of the finest surviving examples of a medieval guildhall in England."
+    },
+    {
+        "id": 271,
+        "latitude": 53.9600,
+        "longitude": -1.0873,
+        "country": "United Kingdom",
+        "county_name": "York",
+        "name": "York",
+        "info": "This city, with Roman origins, was a major urban center in medieval England. Its Minster, one of the largest Gothic cathedrals in Northern Europe, was built mainly in the 13th and 14th centuries. The city walls, largely dating from the 14th century, are the most complete in England. It was an important center of the wool trade and ecclesiastical power."
+    },
+    {
+        "id": 272,
+        "latitude": 51.2798,
+        "longitude": 1.0828,
+        "country": "United Kingdom",
+        "county_name": "Kent",
+        "name": "Canterbury",
+        "info": "This city has been a place of importance since Roman times. Its cathedral, founded in 597 AD and rebuilt in the 11th century, became the center of the Anglican Church. The city was a major pilgrimage site in medieval times, as immortalized in Chaucer's 'Canterbury Tales'. Its St Augustine's Abbey, founded shortly after the cathedral, was a significant center of learning."
+    },
+    {
+        "id": 273,
+        "latitude": 51.7520,
+        "longitude": -1.2577,
+        "country": "United Kingdom",
+        "county_name": "Oxfordshire",
+        "name": "Oxford",
+        "info": "This city grew around its university, which was established in the 12th century. It became a center of learning and religious debate. The city played a significant role in the conflict between King Stephen and Empress Matilda in the 12th century. Many of its colleges, with their distinctive architecture, were founded in the medieval period."
+    },
+    {
+        "id": 274,
+        "latitude": 52.2053,
+        "longitude": 0.1218,
+        "country": "United Kingdom",
+        "county_name": "Cambridgeshire",
+        "name": "Cambridge",
+        "info": "This city, like its rival, grew around its university, founded in 1209. The oldest of its famous colleges date from the medieval period. The Round Church, one of only four medieval round churches in England, was built around 1130. The city's bridge over the River Cam, from which it takes its name, was an important crossing point in medieval times."
+    },
+    {
+        "id": 275,
+        "longitude": -2.5879,
+        "latitude": 51.4545,
+        "country": "United Kingdom",
+        "county_name": "Somerset",
+        "name": "Bath",
+        "info": "This city, known for its Roman baths, was also significant in medieval times. Its abbey, founded in the 7th century and rebuilt in the 12th and 16th centuries, was a major landmark. The city was an important center of the wool trade. It received its royal charter in 1189 and was a popular destination for pilgrims visiting the abbey."
+    },
+    {
+        "id": 276,
+        "latitude": 54.5742,
+        "longitude": -1.2350,
+        "country": "United Kingdom",
+        "county_name": "County Durham",
+        "name": "Middlesbrough",
+        "info": "While now a large town, in medieval times this area was dominated by Whitby Abbey, founded in 657 AD. The land where the modern town stands was given to the Abbey by William the Conqueror. A small chapel dedicated to St Hilda, built in the 12th century, was the only significant structure in the area during the medieval period."
+    },
+    {
+        "id": 277,
+        "latitude": 57.1497,
+        "longitude": -2.0938,
+        "country": "United Kingdom",
+        "county_name": "Aberdeen City",
+        "name": "Aberdeen",
+        "info": "This northern city, whose name means 'mouth of the River Don' in Pictish, was an important settlement in medieval Scotland. It received its royal burgh status from King David I in 1136. The city had two centers in medieval times: Old Aberdeen around the cathedral and university, and New Aberdeen, a royal burgh and trading center on the coast."
+    },
+    {
+        "id": 278,
+        "latitude": 50.7184,
+        "longitude": -3.5339,
+        "country": "United Kingdom",
+        "county_name": "Devon",
+        "name": "Exeter",
+        "info": "This city, with Roman origins, was an important center in medieval England. Its cathedral, founded in 1050 and largely rebuilt in the 14th century, has the longest uninterrupted vaulted ceiling in England. The city walls, originally Roman, were maintained throughout the medieval period. It was besieged several times due to its strategic importance."
+    }
+]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+            
+        
+    
+
